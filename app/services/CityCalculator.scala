@@ -42,6 +42,13 @@ case class CityCalculator() {
 
   def leastInfectedCity(game: GameInterface, pathogen: PathogenInterface): Option[CityInterface] = {
     val citiesInfected = game.cities.filter(c => c._2.pathogens != null).filter(c => c._2.pathogens.keys.exists(p => p == pathogen))
+      .filter(c => {
+        if (c._2.vaccines.nonEmpty) {
+          !c._2.vaccines.exists(v => v.pathogen == pathogen)
+        } else {
+          true
+        }
+      })
     if (citiesInfected.size == 1) {
       Some(citiesInfected.last._2)
     } else if (citiesInfected.size > 1) {

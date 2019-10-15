@@ -6,7 +6,7 @@ import akka.http.scaladsl.server.Directives._
 import controllers.Deciders.FirstTryDecider
 import models.baseImpl.Game
 import play.api.libs.json._
-import services.{LoggingService, StatisticLoggingService}
+import services.{CityCalculator, JsonGenerator, LoggingService, StatisticLoggingService}
 import akka.http.scaladsl.Http
 
 import scala.concurrent.duration._
@@ -18,7 +18,7 @@ object ListenActor {
 
 }
 
-class   ListenActor extends Actor {
+class ListenActor extends Actor {
 
   import ListenActor._
 
@@ -42,7 +42,7 @@ class   ListenActor extends Actor {
 
       val route = extractStrictEntity(3.seconds) { strict =>
         val myGame = Json.fromJson[Game](Json.parse(strict.getData().decodeString("utf8"))).get
-        sender ! myGame
+        sender ! JsonGenerator().generateGameVizJson(myGame)
         println(myGame.round + "\n" + myGame.outcome + "\n\n")
         //println(myGame.prettyPrint())
         LoggingService().logGameState(myGame)

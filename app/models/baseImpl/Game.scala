@@ -31,6 +31,13 @@ case class Game(round: Int, points: Int, outcome: String, jsCityObject: JsValue,
         }
         case _ => null
       }
+      val vaccines: Vector[Vaccine] = events match {
+        case a: JsArray => {
+          a.value.filter { js => (js \ "type").as[String] == "vaccineDeployed" }
+            .map(js => js.as[Vaccine]).toVector
+        }
+        case _ => Vector()
+      }
       JsSuccess(City((js \ "name").as[String],
         (js \ "latitude").as[Float],
         (js \ "longitude").as[Float],
@@ -41,7 +48,7 @@ case class Game(round: Int, points: Int, outcome: String, jsCityObject: JsValue,
         (js \ "hygiene").as[String],
         (js \ "awareness").as[String],
         outbreaks,
-        Vector(),
+        vaccines,
         events
       ))
     }
@@ -119,19 +126,7 @@ case class Game(round: Int, points: Int, outcome: String, jsCityObject: JsValue,
 
   def addCityToMap(index: Int): Map[String, City] = {
     val name = cityNames.apply(index)
-    val city = (jsCityObject \ name).as[City] match {
-      case c: CityInterface =>
-        if (c.events == null) {
-          c
-        } else {
-          val depVacs = c.events.as[JsArray].value.filter(js => (js \ "type") == "vaccineDeployed")
-          if (depVacs.nonEmpty) {
-            c.deployVaccine(depVacs.map(v => v.as[Vaccine]).toVector)
-          } else {
-            c
-          }
-        }
-    }
+    val city = (jsCityObject \ name).as[City]
     if (index == 0) {
       Map(name -> city)
     } else {

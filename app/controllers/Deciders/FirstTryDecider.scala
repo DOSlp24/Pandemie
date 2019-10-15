@@ -141,8 +141,9 @@ case class FirstTryDecider() extends DecisionMaker {
   }
 
   def checkCityStandards(game: GameInterface, pathogen: PathogenInterface): String = {
+    LoggingService().logString("#=> I decided to check on the infected cities standards\n")
     if (CityCalculator().infectedCities(game, pathogen)
-      .count(p => p.awareness == "--" || p.awareness == "-" || p.hygiene == "--" || p.hygiene == "-" || p.economy == "--" || p.government == "--") < 10) {
+      .count(p => p.awareness == "--" || p.awareness == "-" || p.hygiene == "--" || p.hygiene == "-" || p.economy == "--" || p.government == "--") < 20) {
       LoggingService().logString("#=> I decide to move to Side Objectives.\n")
       sideObjective(game, pathogen)
     } else {
@@ -203,6 +204,9 @@ case class FirstTryDecider() extends DecisionMaker {
             case Some(lc) =>
               LoggingService().logString("# I decide to deploy a " + pathogen.name + " Vaccine in " + lc.name + " #\n")
               depVaccine(pathogen.name, lc.name)
+            case None =>
+              LoggingService().logString("# No Least Infected City found -> Eco #")
+              endRound()
           }
         } else {
           LoggingService().logString("# You don't have enough Points to deploy Vaccine  ->  Eco #\n")
