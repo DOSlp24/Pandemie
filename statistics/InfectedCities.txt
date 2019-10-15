@@ -1,0 +1,3416 @@
+0#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+1#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+2#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+3#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+4#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+5#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 2
+6#=>
+		Pathogen *Coccus innocuus* 		Infected Cities: 2
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+7#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+8#=>
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+9#=>
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+10#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 2
+11#=>
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 2
+12#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+13#=>
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+14#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+15#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+16#=>
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+17#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+18#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+19#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+20#=>
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+21#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+22#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+23#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+24#=>
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+25#=>
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+26#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+27#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+28#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+29#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+30#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+31#=>
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+32#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+33#=>
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+34#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+35#=>
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+36#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 2
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+37#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+38#=>
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 2
+39#=>
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+40#=>
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+41#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+42#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+43#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+44#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+45#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+46#=>
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+47#=>
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+48#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+49#=>
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+50#=>
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+51#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 2
+52#=>
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+53#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+54#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+55#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+56#=>
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+57#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+58#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+59#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+60#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+61#=>
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+62#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+63#=>
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+64#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+65#=>
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+66#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+67#=>
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+68#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 3
+69#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+70#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+71#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+72#=>
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+73#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+74#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+75#=>
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+76#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+77#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+78#=>
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+79#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+80#=>
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+81#=>
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+82#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+83#=>
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+84#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+85#=>
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+86#=>
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+87#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+88#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+89#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+90#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+91#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+92#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+93#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+94#=>
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+95#=>
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+96#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+97#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+98#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+99#=>
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+100#=>
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+101#=>
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+102#=>
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+103#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+104#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+105#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+106#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+107#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+108#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+109#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+110#=>
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+111#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+112#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+113#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+114#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+115#=>
+		Pathogen *Azmodeus* 		Infected Cities: 2
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+116#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+117#=>
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+118#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+119#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 2
+120#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+121#=>
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+122#=>
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 2
+123#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+124#=>
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+125#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+126#=>
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+127#=>
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+128#=>
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+129#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+130#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+131#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 2
+132#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+133#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+134#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+135#=>
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+136#=>
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+137#=>
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+138#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+139#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+140#=>
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+141#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+142#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+143#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+144#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+145#=>
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+146#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+147#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+148#=>
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+149#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+150#=>
+		Pathogen *Procrastinalgia* 		Infected Cities: 2
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+151#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+152#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+153#=>
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+154#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+155#=>
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+156#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+157#=>
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+158#=>
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+159#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+160#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+161#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 3
+162#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+163#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+164#=>
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 2
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+165#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+166#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+167#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+168#=>
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+169#=>
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+170#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+171#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+172#=>
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+173#=>
+		Pathogen *N5-10* 		Infected Cities: 2
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+174#=>
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+175#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+176#=>
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+177#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 2
+		Pathogen *Φthisis* 		Infected Cities: 1
+178#=>
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+179#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+180#=>
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+181#=>
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+182#=>
+		Pathogen *Shanty* 		Infected Cities: 2
+		Pathogen *N5-10* 		Infected Cities: 1
+183#=>
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+184#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+185#=>
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+186#=>
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+187#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+188#=>
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+189#=>
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+190#=>
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+191#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+192#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+193#=>
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+194#=>
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+195#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+196#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+197#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+198#=>
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+199#=>
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+200#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 2
+201#=>
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+202#=>
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+203#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+204#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+205#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+206#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+207#=>
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+208#=>
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+209#=>
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+210#=>
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+211#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+212#=>
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+213#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+214#=>
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+215#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+216#=>
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+217#=>
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+218#=>
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+219#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+220#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+221#=>
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+222#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+223#=>
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+224#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+225#=>
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+226#=>
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+227#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 2
+228#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 2
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+229#=>
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+230#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+231#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+232#=>
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+233#=>
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+234#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 2
+235#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+236#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+237#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+238#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+239#=>
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+240#=>
+		Pathogen *N5-10* 		Infected Cities: 2
+		Pathogen *Endoictus* 		Infected Cities: 1
+241#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+242#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+243#=>
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+244#=>
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+245#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+246#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+247#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+248#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+249#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+250#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+251#=>
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+252#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+253#=>
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+254#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+255#=>
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+256#=>
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+257#=>
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+258#=>
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+259#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+260#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+261#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+262#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+263#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+264#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+265#=>
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+266#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+267#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+268#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+269#=>
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+270#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+271#=>
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+272#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+273#=>
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+274#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+275#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+276#=>
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+277#=>
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+278#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+279#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+280#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+281#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+282#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+283#=>
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+284#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+285#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+286#=>
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+287#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+288#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+289#=>
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+290#=>
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+291#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+292#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+293#=>
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+294#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+295#=>
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+296#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+297#=>
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+298#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+299#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+300#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+301#=>
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+302#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+303#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+304#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+305#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+306#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+307#=>
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+308#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 2
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+309#=>
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+310#=>
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+311#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+312#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+313#=>
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+314#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+315#=>
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+316#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+317#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+318#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+319#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+320#=>
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+321#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+322#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+323#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+324#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 2
+325#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+326#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+327#=>
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+328#=>
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+329#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+330#=>
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+331#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 2
+332#=>
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+333#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+334#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+335#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+336#=>
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+337#=>
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+338#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+339#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 2
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+340#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+341#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+342#=>
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+343#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+344#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+345#=>
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+346#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+347#=>
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 2
+348#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+349#=>
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+350#=>
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+351#=>
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+352#=>
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+353#=>
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+354#=>
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+355#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 2
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+356#=>
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+357#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+358#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+359#=>
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+360#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+361#=>
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+362#=>
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+363#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+364#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+365#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+366#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+367#=>
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+368#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+369#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 2
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+370#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+371#=>
+		Pathogen *Φthisis* 		Infected Cities: 2
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+372#=>
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+373#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+374#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+375#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+376#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+377#=>
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+378#=>
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+379#=>
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+380#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+381#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+382#=>
+		Pathogen *Neurodermantotitis* 		Infected Cities: 2
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+383#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+384#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+385#=>
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+386#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+387#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 2
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+388#=>
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+389#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+390#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+391#=>
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+392#=>
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+393#=>
+		Pathogen *N5-10* 		Infected Cities: 2
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+394#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+395#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+396#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+397#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+398#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+399#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+400#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+401#=>
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+402#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+403#=>
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+404#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 2
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+405#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+406#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+407#=>
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+408#=>
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+409#=>
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+410#=>
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+411#=>
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+412#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+413#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+414#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+415#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+416#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+417#=>
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+418#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+419#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+420#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+421#=>
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 2
+422#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 2
+		Pathogen *N5-10* 		Infected Cities: 1
+423#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+424#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+425#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+426#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+427#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+428#=>
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+429#=>
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+430#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+431#=>
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+432#=>
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+433#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+434#=>
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+435#=>
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+436#=>
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+437#=>
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+438#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+439#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+440#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+441#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+442#=>
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+443#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+444#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+445#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+446#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+447#=>
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+448#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+449#=>
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+450#=>
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+451#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+452#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+453#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+454#=>
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+455#=>
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+456#=>
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+457#=>
+		Pathogen *Shanty* 		Infected Cities: 2
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+458#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+459#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+460#=>
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+461#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+462#=>
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+463#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+464#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+465#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+466#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+467#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 2
+468#=>
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+469#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+470#=>
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+471#=>
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+472#=>
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+473#=>
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+474#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 2
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+475#=>
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+476#=>
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+477#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+478#=>
+		Pathogen *N5-10* 		Infected Cities: 2
+		Pathogen *Shanty* 		Infected Cities: 1
+479#=>
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+480#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+481#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+482#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+483#=>
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+484#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+485#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+486#=>
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+487#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+488#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+489#=>
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+490#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+491#=>
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+492#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+493#=>
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+494#=>
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+495#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+496#=>
+		Pathogen *Azmodeus* 		Infected Cities: 2
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+497#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+498#=>
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+499#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+500#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+501#=>
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+502#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 2
+503#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+504#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+505#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+506#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+507#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+508#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+509#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+510#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+511#=>
+		Pathogen *Hexapox* 		Infected Cities: 1
+512#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+513#=>
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+514#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+515#=>
+		Pathogen *N5-10* 		Infected Cities: 2
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+516#=>
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 2
+517#=>
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+518#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+519#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+520#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+521#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+522#=>
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+523#=>
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+524#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+525#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 2
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+526#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+527#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+528#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+529#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+530#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+531#=>
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+532#=>
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+533#=>
+		Pathogen *Φthisis* 		Infected Cities: 2
+		Pathogen *N5-10* 		Infected Cities: 1
+534#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+535#=>
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 2
+536#=>
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+537#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 2
+		Pathogen *Plorps* 		Infected Cities: 1
+538#=>
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+539#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+540#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+541#=>
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+542#=>
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+543#=>
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+544#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+545#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+546#=>
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+547#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 2
+		Pathogen *N5-10* 		Infected Cities: 1
+548#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+549#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+550#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 2
+551#=>
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+552#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+553#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+554#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+555#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+556#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+557#=>
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+558#=>
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+559#=>
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+560#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+561#=>
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+562#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+563#=>
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+564#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+565#=>
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+566#=>
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+567#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 2
+568#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+569#=>
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+570#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+571#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+572#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+573#=>
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+574#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+575#=>
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+576#=>
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+577#=>
+		Pathogen *Φthisis* 		Infected Cities: 2
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+578#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+579#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+580#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+581#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+582#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+583#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+584#=>
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+585#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+586#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 2
+		Pathogen *Azmodeus* 		Infected Cities: 1
+587#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+588#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+589#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+590#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+591#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+592#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+593#=>
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+594#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+595#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+596#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+597#=>
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+598#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+599#=>
+		Pathogen *Neurodermantotitis* 		Infected Cities: 2
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+600#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+601#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+602#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 2
+		Pathogen *Shanty* 		Infected Cities: 1
+603#=>
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+604#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+605#=>
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+606#=>
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+607#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+608#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+609#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 2
+610#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+611#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+612#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+613#=>
+		Pathogen *N5-10* 		Infected Cities: 2
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+614#=>
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+615#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+616#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+617#=>
+		Pathogen *N5-10* 		Infected Cities: 2
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+618#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+619#=>
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+620#=>
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+621#=>
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+622#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+623#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+624#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+625#=>
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+626#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+627#=>
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+628#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 2
+629#=>
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+630#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+631#=>
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+632#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+633#=>
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+634#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+635#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+636#=>
+		Pathogen *Endoictus* 		Infected Cities: 2
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+637#=>
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+638#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+639#=>
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+640#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+641#=>
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+642#=>
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+643#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 2
+		Pathogen *Endoictus* 		Infected Cities: 1
+644#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+645#=>
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+646#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+647#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+648#=>
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+649#=>
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+650#=>
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+651#=>
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+652#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+653#=>
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+654#=>
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+655#=>
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+656#=>
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+657#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 2
+		Pathogen *Shanty* 		Infected Cities: 1
+658#=>
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+659#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 2
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+660#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+661#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 2
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+662#=>
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+663#=>
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+664#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+665#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+666#=>
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+667#=>
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+668#=>
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+669#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+670#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 2
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+671#=>
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+672#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 2
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+673#=>
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+674#=>
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+675#=>
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+676#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+677#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+678#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+679#=>
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+680#=>
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+681#=>
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+682#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+683#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 2
+		Pathogen *Hexapox* 		Infected Cities: 1
+684#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+685#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+686#=>
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+687#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+688#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+689#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+690#=>
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+691#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+692#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+693#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+694#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+695#=>
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+696#=>
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+697#=>
+		Pathogen *N5-10* 		Infected Cities: 2
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+698#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+699#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+700#=>
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+701#=>
+		Pathogen *Hexapox* 		Infected Cities: 1
+702#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+703#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+704#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+705#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 2
+706#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+707#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+708#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+709#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+710#=>
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+711#=>
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+712#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+713#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+714#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+715#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+716#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+717#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+718#=>
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+719#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+720#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+721#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 2
+722#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+723#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+724#=>
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+725#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 2
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+726#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+727#=>
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+728#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 2
+		Pathogen *Azmodeus* 		Infected Cities: 1
+729#=>
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+730#=>
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+731#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+732#=>
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+733#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+734#=>
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+735#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+736#=>
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+737#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+738#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+739#=>
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+740#=>
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+741#=>
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+742#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+743#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+744#=>
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+745#=>
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+746#=>
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 2
+747#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+748#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+749#=>
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+750#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+751#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+752#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+753#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+754#=>
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+755#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+756#=>
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+757#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+758#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 2
+759#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+760#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+761#=>
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+762#=>
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+763#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+764#=>
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+765#=>
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+766#=>
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+767#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+768#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+769#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+770#=>
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 2
+771#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+772#=>
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+773#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+774#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+775#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+776#=>
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+777#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 2
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+778#=>
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+779#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+780#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+781#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+782#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+783#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+784#=>
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+785#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+786#=>
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+787#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+788#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+789#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+790#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+791#=>
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+792#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+793#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+794#=>
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+795#=>
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+796#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+797#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+798#=>
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+799#=>
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+800#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+801#=>
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+802#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+803#=>
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+804#=>
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+805#=>
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+806#=>
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+807#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+808#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+809#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+810#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+811#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+812#=>
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+813#=>
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+814#=>
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+815#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 2
+816#=>
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+817#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+818#=>
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+819#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+820#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+821#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+822#=>
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+823#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+824#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+825#=>
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+826#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+827#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+828#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+829#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+830#=>
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+831#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 2
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+832#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+833#=>
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+834#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+835#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+836#=>
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+837#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+838#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+839#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+840#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 2
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+841#=>
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+842#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+843#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+844#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+845#=>
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+846#=>
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+847#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+848#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+849#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+850#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+851#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+852#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+853#=>
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+854#=>
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+855#=>
+		Pathogen *N5-10* 		Infected Cities: 2
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+856#=>
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+857#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+858#=>
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+859#=>
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+860#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+861#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+862#=>
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+863#=>
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+864#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+865#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+866#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+867#=>
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+868#=>
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+869#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 2
+870#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+871#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+872#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+873#=>
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+874#=>
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+875#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+876#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+877#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+878#=>
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+879#=>
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+880#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+881#=>
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+882#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+883#=>
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+884#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+885#=>
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Azmodeus* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+886#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+887#=>
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+888#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+889#=>
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+890#=>
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+891#=>
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+892#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+893#=>
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+894#=>
+		Pathogen *Φthisis* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+895#=>
+		Pathogen *Plorps* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+896#=>
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+897#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+898#=>
+		Pathogen *Phagum vidiianum* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Endoictus* 		Infected Cities: 1
+899#=>
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+900#=>
+		Pathogen *Admiral Trips* 		Infected Cities: 1
+		Pathogen *Rhinonitis* 		Infected Cities: 1
+		Pathogen *Hexapox* 		Infected Cities: 1
+901#=>
+		Pathogen *Hexapox* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Procrastinalgia* 		Infected Cities: 1
+902#=>
+		Pathogen *Coccus innocuus* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+903#=>
+		Pathogen *Endoictus* 		Infected Cities: 1
+		Pathogen *Neurodermantotitis* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+904#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *Saccharomyces cerevisiae mutans* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+905#=>
+		Pathogen *Shanty* 		Infected Cities: 1
+		Pathogen *Xenomonocythemia* 		Infected Cities: 1
+		Pathogen *Plorps* 		Infected Cities: 1
+906#=>
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
+		Pathogen *N5-10* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+907#=>
+		Pathogen *Influenza iutiubensis* 		Infected Cities: 1
+		Pathogen *Methanobrevibacter colferi* 		Infected Cities: 1
+		Pathogen *Moricillus ☠* 		Infected Cities: 1
