@@ -205,7 +205,7 @@ case class FirstTryDecider() extends DecisionMaker {
               LoggingService().logString("# I decide to deploy a " + pathogen.name + " Vaccine in " + lc.name + " #\n")
               depVaccine(pathogen.name, lc.name)
             case None =>
-              LoggingService().logString("# No Least Infected City found -> Eco #")
+              LoggingService().logString("# No Least Infected City found -> Eco #\n")
               endRound()
           }
         } else {
