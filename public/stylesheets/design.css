@@ -1,0 +1,14 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    padding: 0 15px;
+}
+
+.pathogenDropdown {
+    width: 30vm;
+}

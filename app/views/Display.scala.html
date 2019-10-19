@@ -1,7 +1,32 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <a class="navbar-brand" href="#">Pandemie Viz</a>
 </nav>
-<div id="textArea"></div>
+
+<div id="populationVizAnchor"></div>
+
+<nav id="populationVizHeader" class="navbar navbar-expand-lg navbar-dark bg-dark sticky">
+    <a class="navbar-brand" href="#">Population Viz</a>
+    <ul class="navbar-nav">
+        <li class="disabled">
+            <a class="scrollLinkToPopulation nav-link">
+            Population Viz
+            </a>
+        </li>
+        <li class="active">
+            <a class="scrollLinkToGlobe nav-link">
+            Globe Viz
+            </a>
+        </li>
+    </ul>
+</nav>
+
+<div class="row">
+    <div id="populationVizArea" class="col">
+            <!-- Data Filled in by Displayer.js -->
+    </div>
+    <div id="stackedInfectionVizArea" class="col"></div>
+</div>
+
 <table class="table table-striped">
     <thead>
         <tr>
@@ -15,7 +40,38 @@
         </tr>
     </thead>
     <tbody id="pathogen-table-body">
-
+            <!-- Data Filled in by Displayer.js -->
     </tbody>
 </table>
-<div id="vizArea"></div>
+
+<div id="globeVizAnchor"></div>
+
+<nav id="globeVizHeader" class="navbar navbar-expand-lg navbar-dark bg-dark sticky">
+    <a class="navbar-brand" href="#">Globe Viz</a>
+    <ul class="navbar-nav">
+        <li class="active">
+            <a class="scrollLinkToPopulation nav-link">
+            Population Viz
+            </a>
+        </li>
+        <li class="disabled">
+            <a class="scrollLinkToGlobe nav-link">
+            Globe Viz
+            </a>
+        </li>
+    </ul>
+
+    <label class="ml-auto col-form-label col-1" for="globePathogenDropdown">Pathogen</label>
+    <select class="col-2 form-control ml-auto pathogenDropdown" id="globePathogenDropdown">
+        <option disabled selected>Choose Pathogen</option>
+    </select>
+    <label class="col-form-label ml-auto col-1" for="globeRoundSlider">Round</label>
+        <input id="globeRoundSlider" type="number" min="0" value="0" class="col-2 form-control ml-auto, roundSlider">
+    <label class="ml-auto col-form-label" for="showFlyers">Show Flights</label>
+    <input type="checkbox" class="ml-auto" id="showFlyers">
+
+</nav>
+
+<div id="globeVizArea">
+        <!-- Data Filled in by Displayer.js -->
+</div>

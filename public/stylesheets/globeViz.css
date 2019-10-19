@@ -1,0 +1,7 @@
+.noclicks {
+    pointer-events: none;
+}
+
+.cityPoint {
+    opacity: .6;
+}
