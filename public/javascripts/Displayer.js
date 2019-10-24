@@ -27,6 +27,9 @@ var showFlyers = false;
 var svgHeight = windowHeight * 0.8;
 var svgWidth = windowWidth * 0.4;
 
+var cPathogens = ["NotInfected"];
+var colorPalette = ["green", "blue", "darkslateblue", "indianred", "red", "lightsalmon", "tan", "deeppink"];
+
 $(document).ready(function () {
     awakenLinks();
     createSocket();
@@ -80,10 +83,25 @@ function createSocket() {
 
         $(".roundSlider").change(function () {
             selectedRound = this.value;
-            buildGlobeCityViz();
+
+            if (selectedPathogen !== "") {
+                d3.selectAll(".cityPoint")
+                    .attr("fill", "black")
+                    .attr("stroke-width", 1);
+            }
+            storedData[selectedRound].pathogens.filter(function (pat) {
+                return pat.pathogen.name === selectedPathogen;
+            })[0].infectedCities.forEach(function (city) {
+                d3.select("#" + city.name.replaceAll(",", "").replaceAll(".", "").replaceAll("(", "").replaceAll(")", "").trim() + "Point")
+                    .attr("fill", "red")
+                    .attr("stroke-width", 2);
+            });
+            //buildGlobeCityViz();
         });
 
+
         if (messageData.round === 1) {
+            cPathogens = ["NotInfected"];
             storedData = [messageData];
             infectionData = [{round: messageData.round - 1}];
             messageData.pathogens.forEach(function (pat) {
@@ -105,6 +123,7 @@ function createSocket() {
         buildPathogenTable();
         buildPopulationGraph();
         buildStackedInfectionViz();
+        buildPathogenLineViz();
         if (messageData.round === 1 && messageData.points === 40) {
             buildGlobeCityViz();
         }
@@ -132,6 +151,7 @@ function buildPathogenTable() {
     var patTable = $("#pathogen-table-body");
     messageData.pathogens.forEach(function (pat) {
         patTable.append("<tr class='stateTableEntry'>" +
+            "<td><div style='background-color: " + getColorForPathogen(pat.pathogen.name) + ";width: 30px;height: 30px'></div></td>" +
             "<td>" + pat.pathogen.name + "</td>" +
             "<td>" + pat.pathogen.infectivity + "</td>" +
             "<td>" + pat.pathogen.mobility + "</td>" +
@@ -148,25 +168,30 @@ function buildPopulationGraph() {
         return d.population;
     });
 
+    var totalWidth = $("#populationVizArea").width();
+    var totalHeight = $("#populationVizArea").height();
+    var width = totalWidth - margin.left - margin.right;
+    var height = totalHeight - margin.top - margin.bottom;
+
     d3.select(".populationSvg").remove();
 
     var svg = d3.select("#populationVizArea").append("svg")
         .attr("class", "populationSvg")
-        .attr("width", svgWidth)
-        .attr("height", svgHeight)
+        .attr("width", totalWidth)
+        .attr("height", totalHeight)
         .append("g")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
     var xScale = d3.scaleLinear()
-        .range([0, svgWidth - margin.right - margin.left])
+        .range([0, width])
         .domain([0, populationData.length]);
 
     var yScale = d3.scaleLinear()
-        .range([svgHeight - margin.top - margin.bottom, 0])
+        .range([height, 0])
         .domain([0, d3.max(populationData)]);
 
     svg.append("g")
-        .attr("transform", "translate(0, " + (svgHeight - margin.top - margin.bottom) + ")")
+        .attr("transform", "translate(0, " + height + ")")
         .call(d3.axisBottom(xScale));
 
     svg.append("g")
@@ -196,13 +221,103 @@ function buildPopulationGraph() {
         .attr("fill", "none");
 }
 
-function buildStackedInfectionViz() {
+function buildPathogenLineViz() {
+    var totalWidth = $("#pathogenLineVizArea").width();
+    var totalHeight = $("#pathogenLineVizArea").height();
+    var width = totalWidth - margin.right - margin.left;
+    var height = totalHeight - margin.top - margin.bottom;
+
+    d3.select("#pathogenLineVizSvg")
+        .remove();
+
+    var keys = messageData.pathogens.map(function (entry) {
+        return entry.pathogen.name;
+    });
+
+    var color = d3.scaleOrdinal()
+        .domain(keys)
+        .range(['#e41a1c', '#377eb8', '#4daf4a', '#984ea3', '#ff7f00', '#ffff33', '#a65628', '#f781bf']);
+
+    var svg = d3.select("#pathogenLineVizArea")
+        .append("svg")
+        .attr("id", "pathogenLineVizSvg")
+        .attr("width", totalWidth)
+        .attr("height", totalHeight)
+        .append("g")
+        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
     var xScale = d3.scaleLinear()
-        .range([0, svgWidth - margin.right - margin.left])
+        .range([0, width])
         .domain([0, storedData.length]);
 
     var yScale = d3.scaleLinear()
-        .range([svgHeight - margin.top - margin.bottom, 0])
+        .range([height, 0])
+        .domain([0, storedData[0].population]);
+
+    svg.append("g")
+        .attr("transform", "translate(0, " + height + ")")
+        .call(d3.axisBottom(xScale));
+
+    svg.append("g")
+        .call(d3.axisLeft(yScale)
+            .ticks(15));
+
+    var lineGen = d3.line()
+        .x(function (_, i) {
+            return xScale(i)
+        })
+        .y(function (data) {
+            return yScale(data)
+        });
+
+    var infData = {};
+
+    for (var i in keys) {
+        var pathogen = keys[i];
+        var d = storedData.map(function (dataEntry) {
+            var filteredForPat = dataEntry.pathogens.filter(function (pat) {
+                return pat.pathogen.name === pathogen;
+            });
+            if (filteredForPat.length > 0) {
+                return filteredForPat[0].totalInfected;
+            } else {
+                return 0;
+            }
+        });
+        infData[pathogen] = d;
+    }
+
+    svg.selectAll(".pathogenLine")
+        .data(keys)
+        .enter()
+        .append("path")
+        .attr("d", function (key) {
+            return lineGen(infData[key])
+        })
+        .attr("stroke", function (key) {
+            return getColorForPathogen(key)
+        })
+        .attr("class", function (key) {
+            return "pathogenLine pathogenViz " + key.replace(/\s/g, '') + "Viz";
+        })
+        .attr("stroke-width", 4)
+        .attr("fill", "none")
+        .on("click", triggerPathogenVizElements);
+}
+
+function buildStackedInfectionViz() {
+    var totalWidth = $("#stackedInfectionVizArea").width();
+    var totalHeight = $("#stackedInfectionVizArea").height();
+    var width = totalWidth - margin.right - margin.left;
+    var height = totalHeight - margin.top - margin.bottom;
+
+
+    var xScale = d3.scaleLinear()
+        .range([0, width])
+        .domain([0, storedData.length]);
+
+    var yScale = d3.scaleLinear()
+        .range([height, 0])
         .domain([0, storedData[0].population]);
 
     var keys = messageData.pathogens.map(function (entry) {
@@ -228,7 +343,6 @@ function buildStackedInfectionViz() {
         });
         stackedInfData.push(currentStack);
     });
-    console.log(stackedInfData);
 
     var area = d3.area()
         .x(function (entry) {
@@ -244,7 +358,7 @@ function buildStackedInfectionViz() {
     d3.selectAll(".infectionVizSvg")
         .remove();
 
-    var color = d3.scaleOrdinal()
+    var color = d3.scaleOrdinal() // Unusable cause colors change at runetime
         .domain(keys)
         .range(['#e41a1c', '#377eb8', '#4daf4a', '#984ea3', '#ff7f00', '#ffff33', '#a65628', '#f781bf']);
 
@@ -252,13 +366,13 @@ function buildStackedInfectionViz() {
     var svg = d3.select("#stackedInfectionVizArea")
         .append("svg")
         .attr("class", "infectionVizSvg")
-        .attr("width", svgWidth)
-        .attr("height", svgHeight)
+        .attr("width", totalWidth)
+        .attr("height", totalHeight)
         .append("g")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
     svg.append("g")
-        .attr("transform", "translate(0, " + (svgHeight - margin.top - margin.bottom) + ")")
+        .attr("transform", "translate(0, " + height + ")")
         .call(d3.axisBottom(xScale));
 
     svg.append("g")
@@ -269,14 +383,20 @@ function buildStackedInfectionViz() {
         .data(stackedInfData)
         .enter()
         .append("g")
-        .attr("class", "stackedInfectionArea");
+        .attr("class", function (d) {
+            return "stackedInfectionArea pathogenViz " + d[0].name.replace(/\s/g, '') + "Viz";
+        })
+        .on("click", function (d) {
+            triggerPathogenVizElements(d[0].name)
+        });
     stackedInfectionArea.append("path")
         .attr("d", function (data) {
             return area(data);
         })
         .attr("fill", function (d) {
-            return color(d[0].name);
-        });
+            return getColorForPathogen(d[0].name);
+        })
+        .attr("stroke", "black");
 }
 
 function buildGlobeCityViz() {
@@ -549,4 +669,26 @@ function buildGlobeCityViz() {
         return interpolator(loc)
     }
 
+}
+
+function getColorForPathogen(key) {
+    if (!cPathogens.includes(key)) {
+        cPathogens[cPathogens.length] = key;
+    }
+    return colorPalette[cPathogens.indexOf(key)];
+}
+
+function triggerPathogenVizElements(key) {
+    if (selectedPathogen === key) {
+        selectedPathogen = "";
+        d3.selectAll(".pathogenViz")
+            .attr("opacity", 1);
+    } else {
+        selectedPathogen = key;
+
+        d3.selectAll(".pathogenViz")
+            .attr("opacity", .2);
+        d3.selectAll("." + key.replace(/\s/g, '') + "Viz")
+            .attr("opacity", 1);
+    }
 }

@@ -2,6 +2,10 @@ html {
     scroll-behavior: smooth;
 }
 
+nav {
+    z-index: 99999;
+}
+
 .sticky {
     position: -webkit-sticky;
     position: sticky;
@@ -11,4 +15,111 @@ html {
 
 .pathogenDropdown {
     width: 30vm;
+}
+
+.lowerDiagramm {
+    height: 60vh;
+}
+
+.upperDiagramm {
+    height: 40vh;
+}
+
+/*
+    Navbar Styles
+*/
+
+.navbar-dark-sub {
+    color: #fff;
+    background-color: maroon;
+}
+
+.navbar-dark .navbar-brand {
+    color: #fff
+}
+
+.navbar-dark .navbar-brand:focus, .navbar-dark .navbar-brand:hover {
+    color: #fff
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255, 255, 255, .5)
+}
+
+.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {
+    color: rgba(255, 255, 255, .75)
+}
+
+.navbar-dark .navbar-nav .nav-link.disabled {
+    color: rgba(255, 255, 255, .25)
+}
+
+.navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.active, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .show > .nav-link {
+    color: #fff
+}
+
+.navbar-dark .navbar-toggler {
+    color: rgba(255, 255, 255, .5);
+    border-color: rgba(255, 255, 255, .1)
+}
+
+.navbar-dark .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 255, 255, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E")
+}
+
+.navbar-dark .navbar-text {
+    color: rgba(255, 255, 255, .5)
+}
+
+.navbar-dark .navbar-text a {
+    color: #fff
+}
+
+.navbar-dark .navbar-text a:focus, .navbar-dark .navbar-text a:hover {
+    color: #fff
+}
+
+.navbar-dark-sub .navbar-brand {
+    color: #fff
+}
+
+.navbar-dark-sub .navbar-brand:focus, .navbar-dark-sub .navbar-brand:hover {
+    color: #fff
+}
+
+.navbar-dark-sub .navbar-nav .nav-link {
+    color: rgba(255, 255, 255, .5)
+}
+
+.navbar-dark-sub .navbar-nav .nav-link:focus, .navbar-dark-sub .navbar-nav .nav-link:hover {
+    color: rgba(255, 255, 255, .75)
+}
+
+.navbar-dark-sub .navbar-nav .nav-link.disabled {
+    color: rgba(255, 255, 255, .25)
+}
+
+.navbar-dark-sub .navbar-nav .active > .nav-link, .navbar-dark-sub .navbar-nav .nav-link.active, .navbar-dark-sub .navbar-nav .nav-link.show, .navbar-dark-sub .navbar-nav .show > .nav-link {
+    color: #fff
+}
+
+.navbar-dark-sub .navbar-toggler {
+    color: rgba(255, 255, 255, .5);
+    border-color: rgba(255, 255, 255, .1)
+}
+
+.navbar-dark-sub .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 255, 255, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E")
+}
+
+.navbar-dark-sub .navbar-text {
+    color: rgba(255, 255, 255, .5)
+}
+
+.navbar-dark-sub .navbar-text a {
+    color: #fff
+}
+
+.navbar-dark-sub .navbar-text a:focus, .navbar-dark-sub .navbar-text a:hover {
+    color: #fff
 }

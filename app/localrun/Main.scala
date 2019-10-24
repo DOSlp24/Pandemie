@@ -43,7 +43,7 @@ object Main {
 
     val bindingFuture = Http().bindAndHandle(route, "localhost", 50123)
 
-    println(s"Server online at http://localhost:50123/\nPress RETURN to stop...")
+    println(s"Listener online at http://localhost:50123/\nPress RETURN to stop...")
     StdIn.readLine() // let it run until user presses return
     bindingFuture
       .flatMap(_.unbind()) // trigger unbinding from the port

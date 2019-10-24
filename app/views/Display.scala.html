@@ -4,7 +4,7 @@
 
 <div id="populationVizAnchor"></div>
 
-<nav id="populationVizHeader" class="navbar navbar-expand-lg navbar-dark bg-dark sticky">
+<nav id="populationVizHeader" class="navbar navbar-expand-lg navbar-dark-sub sticky">
     <a class="navbar-brand" href="#">Population Viz</a>
     <ul class="navbar-nav">
         <li class="disabled">
@@ -21,15 +21,17 @@
 </nav>
 
 <div class="row">
-    <div id="populationVizArea" class="col">
-            <!-- Data Filled in by Displayer.js -->
-    </div>
-    <div id="stackedInfectionVizArea" class="col"></div>
+    <div id="populationVizArea" class="col-12 upperDiagramm"></div>
+</div>
+<div class="row">
+    <div id="pathogenLineVizArea" class="col-6 lowerDiagramm"></div>
+    <div id="stackedInfectionVizArea" class="col-6 lowerDiagramm"></div>
 </div>
 
 <table class="table table-striped">
     <thead>
         <tr>
+            <th>Color</th>
             <th>Name</th>
             <th>Infectivity</th>
             <th>Mobility</th>

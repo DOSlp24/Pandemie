@@ -16,6 +16,8 @@ object ListenActor {
 
   case class Start(sender: ActorRef)
 
+  case class PoisonPill()
+
 }
 
 class ListenActor extends Actor {
@@ -44,7 +46,6 @@ class ListenActor extends Actor {
         val myGame = Json.fromJson[Game](Json.parse(strict.getData().decodeString("utf8"))).get
         sender ! JsonGenerator().generateGameVizJson(myGame)
         println(myGame.round + "\n" + myGame.outcome + "\n\n")
-        //println(myGame.prettyPrint())
         LoggingService().logGameState(myGame)
         StatisticLoggingService().log(myGame)
         complete(FirstTryDecider().decide(myGame))
@@ -54,15 +55,13 @@ class ListenActor extends Actor {
 
       val bindingFuture = Http().bindAndHandle(route, "localhost", 50123)
 
-      println(s"Server online at http://localhost:50123/\nPress RETURN to stop...")
+      println(s"Listener online at http://localhost:50123/\nSend PoisonPill to stop...")
       StdIn.readLine() // let it run until user presses return
       bindingFuture
         .flatMap(_.unbind()) // trigger unbinding from the port
         .onComplete(_ => system.terminate()) // and shutdown when done
 
-
-      println("Displayer: ")
+    case PoisonPill =>
+      system.terminate()
   }
-
-
 }
