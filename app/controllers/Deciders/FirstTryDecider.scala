@@ -1,6 +1,7 @@
 package controllers.Deciders
 
 import models.{GameInterface, PathogenInterface}
+import play.api.libs.json.{JsArray, JsValue}
 import services.{CityCalculator, LoggingService, PathogenCalculator}
 
 case class FirstTryDecider(game: GameInterface) extends DecisionMaker {
@@ -9,6 +10,47 @@ case class FirstTryDecider(game: GameInterface) extends DecisionMaker {
     LoggingService().logString("########################################### First Try Decider ###########################################\n")
     LoggingService().logString("#########################################################################################################\n\n")
 
+    PathogenCalculator().getPrioritisedNemesisPathogens(game) match {
+      case Some(patogens) =>
+        val nemesisPat = patogens.count(p => CityCalculator().infectedCities(game, p).size == 1) match {
+          case 1 => patogens.filter(p => CityCalculator().infectedCities(game, p).size == 1).apply(0)
+          case x if x > 1 => patogens.map(p => (PathogenCalculator().pathogenValue(p), p)).reduce((a, b) => {
+            if (a._1 >= b._1) {
+              a
+            } else {
+              b
+            }
+          })._2
+          case _ => patogens.apply(0)
+        }
+
+
+        val infectedByNemesis = CityCalculator().infectedCities(game, nemesisPat)
+        val estimatedLifetime = PathogenCalculator().getEstimatedLifetime(nemesisPat)
+        val estimatedCost = 20 + 10 * estimatedLifetime
+        if (infectedByNemesis.length == 1) {
+          LoggingService().logString("#=> Found a Nemesis Pathogen *" + nemesisPat.name  + "* with only one City infected.\n")
+          val infectedCity = infectedByNemesis.apply(0)
+          if (game.points >= estimatedCost) {
+            LoggingService().logString("#=> We have enough Points to put in under Quarantine.\n")
+            val isApplyable = infectedCity.events match {
+              case a: JsArray => !a.value.exists(js => (js \ "type").as[String] == "quarantine")
+            }
+            if (isApplyable) {
+              LoggingService().logString("# Putting *" + infectedCity.name + "* under Quarantine for " + estimatedLifetime + " Rounds. #\n")
+              return putUnderQuarantine(infectedCity.name, estimatedLifetime)
+            }
+          }
+        }
+        quarantineLess()
+      case _ =>
+        quarantineLess()
+    }
+
+
+  }
+
+  def quarantineLess(): String = {
     if (game.round == 1) {
       PathogenCalculator().getPrioritisedAlphaPathogen(game) match {
         case Some(pat) =>
@@ -95,7 +137,7 @@ case class FirstTryDecider(game: GameInterface) extends DecisionMaker {
       LoggingService().logString("#=> " + pathogen.name + " is infective or spread af! We need a Medicine.\n")
       developMedicine(pathogen)
     } else {
-      LoggingService().logString("#=> " + pathogen.name + " seems to be nothong special. I'll slap some Vaccine on it.\n")
+      LoggingService().logString("#=> " + pathogen.name + " seems to be nothing special. I'll slap some Vaccine on it.\n")
       developVaccine(pathogen)
     }
   }

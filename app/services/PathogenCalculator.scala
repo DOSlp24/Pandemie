@@ -170,6 +170,18 @@ case class PathogenCalculator() {
     CityCalculator().infectedCities(game, p).map(c => c.population * c.pathogens.apply(p)).sum.toInt
   }
 
+  def getEstimatedLifetime(p: PathogenInterface): Int ={
+    val numInf = mapIndicatorToNumeric(p.infectivity)
+    val numLet = mapIndicatorToNumeric(p.lethality)
+    val numDur = mapIndicatorToNumeric(p.duration)
+
+    if(numInf + numLet >= 7) {
+      2 // This pathogen will wipe out the whole city in an instance :/   Feels bad though
+    } else {
+      numDur * 2 + 2
+    }
+  }
+
   def pathogenValue(p: PathogenInterface): Int = {
     mapIndicatorToNumeric(p.infectivity) * 3 +
       mapIndicatorToNumeric(p.mobility) * 2 +

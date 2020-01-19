@@ -1,1 +1,150 @@
-{"Game Event: vaccineInDevelopment":{"type":"vaccineInDevelopment","pathogen":{"name":"Moricillus ☠","infectivity":"-","mobility":"o","duration":"-","lethality":"+"},"sinceRound":21,"untilRound":27},"City Event: vaccineDeployed":[{"type":"vaccineDeployed","pathogen":{"name":"Moricillus ☠","infectivity":"-","mobility":"o","duration":"-","lethality":"+"},"round":8}],"City Event: antiVaccinationism":[{"type":"antiVaccinationism","sinceRound":10}],"Game Event: pathogenEncountered":{"type":"pathogenEncountered","pathogen":{"name":"Azmodeus","infectivity":"o","mobility":"o","duration":"o","lethality":"o"},"round":1},"City Event: medicationDeployed":[{"type":"medicationDeployed","pathogen":{"name":"Azmodeus","infectivity":"o","mobility":"o","duration":"o","lethality":"o"},"round":6}],"Game Event: largeScalePanic":{"type":"largeScalePanic","sinceRound":5},"Game Event: medicationInDevelopment":{"type":"medicationInDevelopment","pathogen":{"name":"Azmodeus","infectivity":"o","mobility":"o","duration":"o","lethality":"o"},"sinceRound":1,"untilRound":4},"Game Event: economicCrisis":{"type":"economicCrisis","sinceRound":2},"Game Event: medicationAvailable":{"type":"medicationAvailable","pathogen":{"name":"Azmodeus","infectivity":"o","mobility":"o","duration":"o","lethality":"o"},"sinceRound":4},"City Event: outbreak":[{"type":"outbreak","pathogen":{"name":"Azmodeus","infectivity":"o","mobility":"o","duration":"o","lethality":"o"},"prevalence":0.38420107719928187,"sinceRound":1}],"City Event: bioTerrorism":[{"type":"bioTerrorism","round":40,"pathogen":{"name":"Xenomonocythemia","infectivity":"-","mobility":"--","duration":"o","lethality":"++"}},{"type":"outbreak","pathogen":{"name":"Xenomonocythemia","infectivity":"-","mobility":"--","duration":"o","lethality":"++"},"prevalence":0.07848837209302326,"sinceRound":40}],"Game Event: vaccineAvailable":{"type":"vaccineAvailable","pathogen":{"name":"Moricillus ☠","infectivity":"-","mobility":"o","duration":"-","lethality":"+"},"sinceRound":27}}
+{
+  "Game Event: vaccineInDevelopment": {
+    "type": "vaccineInDevelopment",
+    "pathogen": {
+      "name": "Moricillus ☠",
+      "infectivity": "-",
+      "mobility": "o",
+      "duration": "-",
+      "lethality": "+"
+    },
+    "sinceRound": 21,
+    "untilRound": 27
+  },
+  "City Event: vaccineDeployed": [
+    {
+      "type": "vaccineDeployed",
+      "pathogen": {
+        "name": "Moricillus ☠",
+        "infectivity": "-",
+        "mobility": "o",
+        "duration": "-",
+        "lethality": "+"
+      },
+      "round": 8
+    }
+  ],
+  "City Event: antiVaccinationism": [
+    {
+      "type": "antiVaccinationism",
+      "sinceRound": 10
+    }
+  ],
+  "City Event: quarantine": [
+    {
+      "type": "quarantine",
+      "sinceRound": 1,
+      "untilRound": 3
+    },
+    {
+      "type": "uprising",
+      "sinceRound": 4,
+      "participants": 35
+    }
+  ],
+  "Game Event: pathogenEncountered": {
+    "type": "pathogenEncountered",
+    "pathogen": {
+      "name": "Azmodeus",
+      "infectivity": "o",
+      "mobility": "o",
+      "duration": "o",
+      "lethality": "o"
+    },
+    "round": 1
+  },
+  "City Event: medicationDeployed": [
+    {
+      "type": "medicationDeployed",
+      "pathogen": {
+        "name": "Azmodeus",
+        "infectivity": "o",
+        "mobility": "o",
+        "duration": "o",
+        "lethality": "o"
+      },
+      "round": 6
+    }
+  ],
+  "Game Event: largeScalePanic": {
+    "type": "largeScalePanic",
+    "sinceRound": 5
+  },
+  "Game Event: medicationInDevelopment": {
+    "type": "medicationInDevelopment",
+    "pathogen": {
+      "name": "Azmodeus",
+      "infectivity": "o",
+      "mobility": "o",
+      "duration": "o",
+      "lethality": "o"
+    },
+    "sinceRound": 1,
+    "untilRound": 4
+  },
+  "Game Event: economicCrisis": {
+    "type": "economicCrisis",
+    "sinceRound": 2
+  },
+  "Game Event: medicationAvailable": {
+    "type": "medicationAvailable",
+    "pathogen": {
+      "name": "Azmodeus",
+      "infectivity": "o",
+      "mobility": "o",
+      "duration": "o",
+      "lethality": "o"
+    },
+    "sinceRound": 4
+  },
+  "City Event: outbreak": [
+    {
+      "type": "outbreak",
+      "pathogen": {
+        "name": "Azmodeus",
+        "infectivity": "o",
+        "mobility": "o",
+        "duration": "o",
+        "lethality": "o"
+      },
+      "prevalence": 0.38420107719928187,
+      "sinceRound": 1
+    }
+  ],
+  "City Event: bioTerrorism": [
+    {
+      "type": "bioTerrorism",
+      "round": 40,
+      "pathogen": {
+        "name": "Xenomonocythemia",
+        "infectivity": "-",
+        "mobility": "--",
+        "duration": "o",
+        "lethality": "++"
+      }
+    },
+    {
+      "type": "outbreak",
+      "pathogen": {
+        "name": "Xenomonocythemia",
+        "infectivity": "-",
+        "mobility": "--",
+        "duration": "o",
+        "lethality": "++"
+      },
+      "prevalence": 0.07848837209302326,
+      "sinceRound": 40
+    }
+  ],
+  "Game Event: vaccineAvailable": {
+    "type": "vaccineAvailable",
+    "pathogen": {
+      "name": "Moricillus ☠",
+      "infectivity": "-",
+      "mobility": "o",
+      "duration": "-",
+      "lethality": "+"
+    },
+    "sinceRound": 27
+  }
+}

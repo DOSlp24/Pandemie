@@ -1,1 +1,54 @@
-{"StatisticDecider":{"winrate":0.28865979381443296,"wins":28,"wRounds":35,"wRoundsTotal":993,"looserate":0.7227722772277227,"looses":73,"lRounds":31,"lRoundsTotal":2334,"roundsTotal":3327,"averageRounds":32,"runsTotal":101},"PrimitiveDecider":{"winrate":0.37,"wins":37,"wRounds":36,"wRoundsTotal":1351,"looserate":0.6336633663366337,"looses":64,"lRounds":26,"lRoundsTotal":1712,"roundsTotal":3063,"averageRounds":30,"runsTotal":101},"FirstTryDecider":{"winrate":0.45794392523364486,"wins":49,"wRounds":40,"wRoundsTotal":1960,"looserate":0.5471698113207547,"looses":58,"lRounds":38,"lRoundsTotal":2258,"roundsTotal":4218,"averageRounds":39,"runsTotal":107},"Template":{"winrate":0,"wins":0,"wRounds":0,"wRoundsTotal":0,"looserate":0,"looses":0,"lRounds":0,"lRoundsTotal":0,"roundsTotal":0,"averageRounds":0,"runsTotal":0}}
+{
+  "StatisticDecider": {
+    "winrate": 0.28865979381443296,
+    "wins": 28,
+    "wRounds": 35,
+    "wRoundsTotal": 993,
+    "looserate": 0.7227722772277227,
+    "looses": 73,
+    "lRounds": 31,
+    "lRoundsTotal": 2334,
+    "roundsTotal": 3327,
+    "averageRounds": 32,
+    "runsTotal": 101
+  },
+  "PrimitiveDecider": {
+    "winrate": 0.37,
+    "wins": 37,
+    "wRounds": 36,
+    "wRoundsTotal": 1351,
+    "looserate": 0.6336633663366337,
+    "looses": 64,
+    "lRounds": 26,
+    "lRoundsTotal": 1712,
+    "roundsTotal": 3063,
+    "averageRounds": 30,
+    "runsTotal": 101
+  },
+  "FirstTryDecider": {
+    "winrate": 0.62,
+    "wins": 62,
+    "wRounds": 37,
+    "wRoundsTotal": 2307,
+    "looserate": 0.38613861386138615,
+    "looses": 39,
+    "lRounds": 43,
+    "lRoundsTotal": 1701,
+    "roundsTotal": 4008,
+    "averageRounds": 39,
+    "runsTotal": 101
+  },
+  "Template": {
+    "winrate": 0,
+    "wins": 0,
+    "wRounds": 0,
+    "wRoundsTotal": 0,
+    "looserate": 0,
+    "looses": 0,
+    "lRounds": 0,
+    "lRoundsTotal": 0,
+    "roundsTotal": 0,
+    "averageRounds": 0,
+    "runsTotal": 0
+  }
+}
