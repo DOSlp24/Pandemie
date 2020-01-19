@@ -3,8 +3,8 @@ package controllers.Deciders
 import models.{GameInterface, PathogenInterface}
 import services.{CityCalculator, PathogenCalculator}
 
-case class DecisionController() extends DecisionMaker {
-  override def decide(game: GameInterface): String = {
+case class DecisionController(game: GameInterface) extends DecisionMaker {
+  override def decide(): String = {
     println("DecisionController:")
 
     if (game.points == 0) {
@@ -105,5 +105,9 @@ case class DecisionController() extends DecisionMaker {
   def drownInDespair(): String = {
     println("#### I choose to end the Round because I don't know what else to do ####\n")
     endRound()
+  }
+
+  override def toString: String = {
+    "PrimitiveDecider"
   }
 }

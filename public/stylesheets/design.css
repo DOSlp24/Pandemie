@@ -17,6 +17,10 @@ nav {
     width: 30vm;
 }
 
+.rowContainer {
+    width: 95vw;
+}
+
 .lowerDiagramm {
     height: 60vh;
 }
@@ -31,7 +35,7 @@ nav {
 
 .navbar-dark-sub {
     color: #fff;
-    background-color: maroon;
+    background-color: darkred;
 }
 
 .navbar-dark .navbar-brand {

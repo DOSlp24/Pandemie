@@ -3,23 +3,24 @@ package controllers.Deciders
 import models.GameInterface
 
 trait DecisionMaker {
+  val game: GameInterface
 
-  def decide(game: GameInterface): String
+  def decide(): String
 
   def endRound(): String = {
     """{"type": "endRound"}"""
   }
 
   def putUnderQuarantine(city: String, rounds: Int): String = {
-    "{\"type\": \"putUnderQuarantine\", \"city\": \"" + city + "\", \"rounds\": \"" + rounds + "\"}"
+    "{\"type\": \"putUnderQuarantine\", \"city\": \"" + city + "\", \"rounds\": " + rounds + "}"
   }
 
   def closeAirport(city: String, rounds: Int): String = {
-    "{\"type\": \"closeAirport\", \"city\": \"" + city + "\", \"rounds\": \"" + rounds + "\"}"
+    "{\"type\": \"closeAirport\", \"city\": \"" + city + "\", \"rounds\": " + rounds + "}"
   }
 
   def closeConnection(from: String, to: String, rounds: Int): String = {
-    "{\"type\": \"closeConnection\", \"fromCity\": \"" + from + "\", \"toCity\": \"" + to + "\", \"rounds\": \"" + rounds + "\"}"
+    "{\"type\": \"closeConnection\", \"fromCity\": \"" + from + "\", \"toCity\": \"" + to + "\", \"rounds\": " + rounds + "}"
   }
 
   def devVaccine(pathogen: String): String = {

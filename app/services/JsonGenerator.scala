@@ -40,6 +40,7 @@ case class JsonGenerator() {
   implicit val writeGameViz: Writes[GameInterface] = new Writes[GameInterface] {
     override def writes(game: GameInterface): JsValue = {
       Json.obj(
+        "outcome" -> game.outcome,
         "round" -> game.round,
         "points" -> game.points,
         "population" -> CityCalculator().getTotalPopulation(game),

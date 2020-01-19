@@ -4,6 +4,10 @@ String.prototype.replaceAll = function (search, replacement) {
 };
 
 var socket;
+var listenerSocketNumber;
+
+var BASEPORT = 50123;
+
 var windowWidth = window.innerWidth;
 var windowHeight = window.innerHeight * 0.8;
 
@@ -28,7 +32,7 @@ var svgHeight = windowHeight * 0.8;
 var svgWidth = windowWidth * 0.4;
 
 var cPathogens = ["NotInfected"];
-var colorPalette = ["green", "blue", "darkslateblue", "indianred", "red", "lightsalmon", "tan", "deeppink"];
+var colorPalette = ["limegreen", "coral", "turquoise", "mediumorchid", "indianred", "navy", "goldenrod", "olive", "skyblue", "violet"];
 
 $(document).ready(function () {
     awakenLinks();
@@ -59,79 +63,93 @@ function createSocket() {
         }, 30000);
     };
     socket.onmessage = function (message) {
-        messageData = JSON.parse(message.data);
-        console.log(messageData);
+        if (message.data.toString().split(" ")[0] === "Socket") {
+            listenerSocketNumber = message.data.toString().split(" ")[1];
+            console.log("I am " + listenerSocketNumber);
+        } else {
 
-        //TODO auslagern
-        $(".generatedOption").remove();
-        messageData.pathogens.map(function (pat) {
-            return pat.pathogen.name
-        }).forEach(function (pat) {
-            $(".pathogenDropdown").append("<option class='generatedOption'>" + pat + "</option>")
-        });
-        $(".pathogenDropdown").change(function () {
-            selectedPathogen = $(this).children("option:selected").val();
-            buildGlobeCityViz();
-        });
-        $("#showFlyers").click(function () {
-            showFlyers = $("#showFlyers").is(":checked");
-            buildGlobeCityViz();
-        });
+            messageData = JSON.parse(message.data);
+            console.log(messageData);
 
-        d3.selectAll(".roundSlider")
-            .attr("max", messageData.round);
-
-        $(".roundSlider").change(function () {
-            selectedRound = this.value;
-
-            if (selectedPathogen !== "") {
-                d3.selectAll(".cityPoint")
-                    .attr("fill", "black")
-                    .attr("stroke-width", 1);
+            if (messageData.outcome !== "pending") {
+                $("#StartButton").show();
             }
-            storedData[selectedRound].pathogens.filter(function (pat) {
-                return pat.pathogen.name === selectedPathogen;
-            })[0].infectedCities.forEach(function (city) {
-                d3.select("#" + city.name.replaceAll(",", "").replaceAll(".", "").replaceAll("(", "").replaceAll(")", "").trim() + "Point")
-                    .attr("fill", "red")
-                    .attr("stroke-width", 2);
+
+            //TODO auslagern
+            $(".generatedOption").remove();
+            messageData.pathogens.map(function (pat) {
+                return pat.pathogen.name
+            }).forEach(function (pat) {
+                $(".pathogenDropdown").append("<option class='generatedOption'>" + pat + "</option>")
             });
-            //buildGlobeCityViz();
-        });
+            $(".pathogenDropdown").change(function () {
+                selectedPathogen = $(this).children("option:selected").val();
+                buildGlobeCityViz();
+            });
+            $("#showFlyers").click(function () {
+                showFlyers = $("#showFlyers").is(":checked");
+                buildGlobeCityViz();
+            });
+
+            d3.selectAll(".roundSlider")
+                .attr("max", messageData.round);
+
+            $(".roundSlider").change(function () {
+                selectedRound = this.value;
+
+                if (selectedPathogen !== "") {
+                    d3.selectAll(".cityPoint")
+                        .attr("fill", "black")
+                        .attr("stroke-width", 1);
+                }
+                storedData[selectedRound].pathogens.filter(function (pat) {
+                    return pat.pathogen.name === selectedPathogen;
+                })[0].infectedCities.forEach(function (city) {
+                    d3.select("#" + city.name.replaceAll(",", "").replaceAll(".", "").replaceAll("(", "").replaceAll(")", "").trim() + "Point")
+                        .attr("fill", "red")
+                        .attr("stroke-width", 2);
+                });
+                //buildGlobeCityViz();
+            });
 
 
-        if (messageData.round === 1) {
-            cPathogens = ["NotInfected"];
-            storedData = [messageData];
-            infectionData = [{round: messageData.round - 1}];
-            messageData.pathogens.forEach(function (pat) {
-                infectionData[infectionData.length - 1][pat.pathogen.name] = pat.totalInfected;
-            });
-            infectionData[infectionData.length - 1]["NotInfected"] = messageData.notInfected;
-            fillupInfectionData();
-        }
-        if (messageData.round > storedData.length) {
-            storedData.push(messageData);
-            infectionData.push({round: messageData.round - 1});
-            messageData.pathogens.forEach(function (pat) {
-                infectionData[infectionData.length - 1][pat.pathogen.name] = pat.totalInfected;
-            });
-            infectionData[infectionData.length - 1]["NotInfected"] = messageData.notInfected;
-            fillupInfectionData();
-        }
+            if (messageData.round === 1) {
+                cPathogens = ["NotInfected"];
+                storedData = [messageData];
+                infectionData = [{round: messageData.round - 1}];
+                messageData.pathogens.forEach(function (pat) {
+                    infectionData[infectionData.length - 1][pat.pathogen.name] = pat.totalInfected;
+                });
+                infectionData[infectionData.length - 1]["NotInfected"] = messageData.notInfected;
+                fillupInfectionData();
+            }
+            if (messageData.round > storedData.length) {
+                storedData.push(messageData);
+                infectionData.push({round: messageData.round - 1});
+                messageData.pathogens.forEach(function (pat) {
+                    infectionData[infectionData.length - 1][pat.pathogen.name] = pat.totalInfected;
+                });
+                infectionData[infectionData.length - 1]["NotInfected"] = messageData.notInfected;
+                fillupInfectionData();
+            }
 
-        buildPathogenTable();
-        buildPopulationGraph();
-        buildStackedInfectionViz();
-        buildPathogenLineViz();
-        if (messageData.round === 1 && messageData.points === 40) {
-            buildGlobeCityViz();
+            buildPathogenTable();
+            buildPopulationGraph();
+            buildStackedInfectionViz();
+            buildPathogenLineViz();
+            if (messageData.round === 1 && messageData.points === 40) {
+                buildGlobeCityViz();
+            }
         }
     };
 
     socket.onclose = function () {
         console.log("Socket Closed!");
     };
+    $("#StartButton").click(function () {
+        $("#StartButton").hide();
+        socket.send("New Run please")
+    });
 }
 
 function fillupInfectionData() {
@@ -210,9 +228,9 @@ function buildPopulationGraph() {
             .y1(function () {
                 return yScale(0);
             }))
-        .attr("stroke", "darkgreen")
+        .attr("stroke", "peru")
         .attr("stroke-wdith", 2)
-        .attr("fill", "forestgreen");
+        .attr("fill", "navajowhite");
 
     svg.append("path")
         .attr("d", "M 0 " + yScale(d3.max(populationData) / 2) + " L " + xScale(populationData.length - 1) + " " + yScale(d3.max(populationData) / 2))

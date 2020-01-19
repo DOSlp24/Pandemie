@@ -32,11 +32,12 @@ object Main {
 
     val route = extractStrictEntity(3.seconds) { strict =>
       val myGame = Json.fromJson[Game](Json.parse(strict.getData().decodeString("utf8"))).get
+      val decider = FirstTryDecider(myGame)
       println(myGame.round + "\n" + myGame.outcome + "\n\n")
       //println(myGame.prettyPrint())
       LoggingService().logGameState(myGame)
-      StatisticLoggingService().log(myGame)
-      complete(FirstTryDecider().decide(myGame))
+      StatisticLoggingService().log(myGame, decider.toString)
+      complete(decider.decide())
       //complete(DecisionController().decide(myGame))
       //complete(StatisticDecisionController().decide(myGame))
     }

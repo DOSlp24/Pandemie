@@ -1,5 +1,8 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <a class="navbar-brand" href="#">Pandemie Viz</a>
+    <a class="ml-auto">
+        <button id="StartButton" type="button" class="btn btn-success">Start</button>
+    </a>
 </nav>
 
 <div id="populationVizAnchor"></div>
@@ -20,10 +23,10 @@
     </ul>
 </nav>
 
-<div class="row">
+<div class="row rowContainer">
     <div id="populationVizArea" class="col-12 upperDiagramm"></div>
 </div>
-<div class="row">
+<div class="row rowContainer">
     <div id="pathogenLineVizArea" class="col-6 lowerDiagramm"></div>
     <div id="stackedInfectionVizArea" class="col-6 lowerDiagramm"></div>
 </div>
@@ -48,7 +51,7 @@
 
 <div id="globeVizAnchor"></div>
 
-<nav id="globeVizHeader" class="navbar navbar-expand-lg navbar-dark bg-dark sticky">
+<nav id="globeVizHeader" class="navbar navbar-expand-lg navbar-dark-sub sticky">
     <a class="navbar-brand" href="#">Globe Viz</a>
     <ul class="navbar-nav">
         <li class="active">
@@ -68,7 +71,7 @@
         <option disabled selected>Choose Pathogen</option>
     </select>
     <label class="col-form-label ml-auto col-1" for="globeRoundSlider">Round</label>
-        <input id="globeRoundSlider" type="number" min="0" value="0" class="col-2 form-control ml-auto, roundSlider">
+    <input id="globeRoundSlider" type="number" min="0" value="0" class="col-2 form-control ml-auto, roundSlider">
     <label class="ml-auto col-form-label" for="showFlyers">Show Flights</label>
     <input type="checkbox" class="ml-auto" id="showFlyers">
 
