@@ -46,9 +46,9 @@ class ListenActor extends Actor {
 
       val route = extractStrictEntity(3.seconds) { strict =>
         val myGame = Json.fromJson[Game](Json.parse(strict.getData().decodeString("utf8"))).get
-        //val decider: DecisionMaker = FirstTryDecider(myGame)
+        val decider: DecisionMaker = FirstTryDecider(myGame)
         //val decider: DecisionMaker = DecisionController(myGame)
-        val decider: DecisionMaker = StatisticDecisionController(myGame)
+        //val decider: DecisionMaker = StatisticDecisionController(myGame)
         sender ! JsonGenerator().generateGameVizJson(myGame)
         println(myGame.round + "\n" + myGame.outcome + "\n\n")
         LoggingService().logGameState(myGame)

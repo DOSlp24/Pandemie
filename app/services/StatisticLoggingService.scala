@@ -7,7 +7,7 @@ import play.api.libs.json.{JsArray, JsObject, JsValue, Json}
 
 case class StatisticLoggingService() {
   def log(game: GameInterface, decider: String): Unit = {
-    logWinrate(game, decider)
+    //logWinrate(game, decider)
     //logInfectedCities(game)
     //logEvents(game)
     //logPathogens(game)

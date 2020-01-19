@@ -5,13 +5,13 @@
 Points: *40			Outcome: *pending*
 Total Population: *756371*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Alpha|        X|         X|       1|   0.249 %|    -|    o|    -|    +|
-|          Hexapox|  Alpha|        X|         X|       1|     0.2 %|    o|    +|    o|    o|
-|  Procrastinalgia|  Alpha|        X|         X|       1|   0.015 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Alpha|        X|         X|       1|   0.045 %|    +|   ++|    o|    +|
+|  Azmodeus|  Alpha|        X|         X|       1|   0.072 %|    o|    o|    o|    o|
+|   ?thisis|  Alpha|        X|         X|       1|   0.011 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
 
@@ -23,10 +23,10 @@ Events encountered:
 ########################################### First Try Decider ###########################################
 #########################################################################################################
 
-#=> Found a Nemesis Pathogen *Hexapox* with only one City infected.
+#=> Found a Nemesis Pathogen *N5-10* with only one City infected.
 #=> First Round = Different Rules. Sort by Pathogen Value
-#=> Hexapox is infective or spread af! We need a Medicine.
-# I decide to develop a Medicine for Hexapox #
+#=> N5-10 is infective or spread af! We need a Medicine.
+# I decide to develop a Medicine for N5-10 #
 ***********************************************************************************
 *************************************** Round 1 **************************************
 ***********************************************************************************
@@ -34,15 +34,15 @@ Events encountered:
 Points: *20			Outcome: *pending*
 Total Population: *756371*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Alpha|        X|         X|       1|   0.249 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         X|       1|     0.2 %|    o|    +|    o|    o|
-|  Procrastinalgia|  Alpha|        X|         X|       1|   0.015 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         X|       1|   0.045 %|    +|   ++|    o|    +|
+|  Azmodeus|  Alpha|        X|         X|       1|   0.072 %|    o|    o|    o|    o|
+|   ?thisis|  Alpha|        X|         X|       1|   0.011 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
-Medicine: Hexapox		(0/3)
+Medicine: N5-10		(0/3)
 
 Events encountered:
 
@@ -52,26 +52,27 @@ Events encountered:
 ########################################### First Try Decider ###########################################
 #########################################################################################################
 
-#=> Found a Nemesis Pathogen *Hexapox* with only one City infected.
+#=> Found a Nemesis Pathogen *N5-10* with only one City infected.
 #=> First Round = Different Rules. Sort by Pathogen Value
-#=> Moricillus ☠ seems to be nothing special. I'll slap some Vaccine on it.
-# You don't have enough points to develop a Vaccine or already has Vac  ->  Eco #
+#=> Azmodeus is infective or spread af! We need a Medicine.
+# I decide to develop a Medicine for Azmodeus #
 ***********************************************************************************
-*************************************** Round 2 **************************************
+*************************************** Round 1 **************************************
 ***********************************************************************************
 
-Points: *40			Outcome: *pending*
+Points: *0			Outcome: *pending*
 Total Population: *756371*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Alpha|        X|         X|     206|  30.538 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         X|      50|   7.062 %|    o|    +|    o|    o|
-|  Procrastinalgia|  Alpha|        X|         X|       2|   0.067 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         X|       1|   0.045 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         X|       1|   0.072 %|    o|    o|    o|    o|
+|   ?thisis|  Alpha|        X|         X|       1|   0.011 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
-Medicine: Hexapox		(1/3)
+Medicine: N5-10		(0/3)
+Medicine: Azmodeus		(0/3)
 
 Events encountered:
 
@@ -81,9 +82,10 @@ Events encountered:
 ########################################### First Try Decider ###########################################
 #########################################################################################################
 
-#=> I have found and selected the Alpha Nemesis Pathogen Moricillus ☠
-#=> Moricillus ☠ is infective or spread af! We need a Medicine.
-# I decide to develop a Medicine for Moricillus ☠ #
+#=> Found a Nemesis Pathogen *N5-10* with only one City infected.
+#=> First Round = Different Rules. Sort by Pathogen Value
+#=> ?thisis is infective or spread af! We need a Medicine.
+# You don't have enough points to develop a Medicine or already has Med  ->  Eco #
 ***********************************************************************************
 *************************************** Round 2 **************************************
 ***********************************************************************************
@@ -91,16 +93,16 @@ Events encountered:
 Points: *20			Outcome: *pending*
 Total Population: *756371*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Delta|        X|         X|     206|  30.538 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         X|      50|   7.062 %|    o|    +|    o|    o|
-|  Procrastinalgia|  Alpha|        X|         X|       2|   0.067 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         X|     213|   70.95 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         X|      27|   5.529 %|    o|    o|    o|    o|
+|   ?thisis|  Alpha|        X|         X|      19|   2.534 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
-Medicine: Hexapox		(1/3)
-Medicine: Moricillus ☠		(0/3)
+Medicine: N5-10		(1/3)
+Medicine: Azmodeus		(1/3)
 
 Events encountered:
 
@@ -110,56 +112,28 @@ Events encountered:
 ########################################### First Try Decider ###########################################
 #########################################################################################################
 
-#=> I have found and selected the Alpha Nemesis Pathogen Procrastinalgia
-#=> Procrastinalgia seems to be nothing special. I'll slap some Vaccine on it.
-# You don't have enough points to develop a Vaccine or already has Vac  ->  Eco #
+#=> I have found and selected the Alpha Nemesis Pathogen ?thisis
+#=> ?thisis is infective or spread af! We need a Medicine.
+# I decide to develop a Medicine for ?thisis #
 ***********************************************************************************
-*************************************** Round 3 **************************************
-***********************************************************************************
-
-Points: *40			Outcome: *pending*
-Total Population: *756371*
-Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Delta|        X|         X|     206|  42.241 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         X|      50|   9.171 %|    o|    +|    o|    o|
-|  Procrastinalgia|  Alpha|        X|         X|       2|   0.093 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-In Development:
-Medicine: Hexapox		(2/3)
-Medicine: Moricillus ☠		(1/3)
-
-Events encountered:
-
-
-
-#########################################################################################################
-########################################### First Try Decider ###########################################
-#########################################################################################################
-
-#=> I have found and selected the Alpha Nemesis Pathogen Procrastinalgia
-#=> Procrastinalgia seems to be nothing special. I'll slap some Vaccine on it.
-# I decide to develop a Vaccine for Procrastinalgia #
-***********************************************************************************
-*************************************** Round 3 **************************************
+*************************************** Round 2 **************************************
 ***********************************************************************************
 
 Points: *0			Outcome: *pending*
 Total Population: *756371*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Delta|        X|         X|     206|  42.241 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         X|      50|   9.171 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        X|         X|       2|   0.093 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         X|     213|   70.95 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         X|      27|   5.529 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         X|      19|   2.534 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
-Medicine: Hexapox		(2/3)
-Medicine: Moricillus ☠		(1/3)
-Vaccine: Procrastinalgia		(0/6)
+Medicine: N5-10		(1/3)
+Medicine: Azmodeus		(1/3)
+Medicine: ?thisis		(0/3)
+
 Events encountered:
 
 
@@ -169,55 +143,57 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Moricillus ☠ found
+#=> Nemesis Pathogen N5-10 found
+#=> Selected Pathogen has no Drugs available. I decide to move to Drugs in Development.
+#=> Med in Development - Eco
+***********************************************************************************
+*************************************** Round 3 **************************************
+***********************************************************************************
+
+Points: *20			Outcome: *pending*
+Total Population: *756371*
+Pathogens:
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         X|     213|  80.631 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         X|      27|   6.828 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         X|      19|   3.256 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+In Development:
+Medicine: N5-10		(2/3)
+Medicine: Azmodeus		(2/3)
+Medicine: ?thisis		(1/3)
+
+Events encountered:
+
+
+
+#########################################################################################################
+########################################### First Try Decider ###########################################
+#########################################################################################################
+
+#=> No Nemesis Alpha Pathogen found.
+#=> Nemesis Pathogen N5-10 found
 #=> Selected Pathogen has no Drugs available. I decide to move to Drugs in Development.
 #=> Med in Development - Eco
 ***********************************************************************************
 *************************************** Round 4 **************************************
 ***********************************************************************************
 
-Points: *20			Outcome: *pending*
-Total Population: *755104*
-Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Delta|        X|         X|     206|  51.352 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|      50|  10.498 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        X|         X|       2|   0.113 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-In Development:
-Medicine: Moricillus ☠		(2/3)
-Vaccine: Procrastinalgia		(1/6)
-Events encountered:
-
-
-
-#########################################################################################################
-########################################### First Try Decider ###########################################
-#########################################################################################################
-
-#=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Moricillus ☠ found
-#=> Selected Pathogen has no Drugs available. I decide to move to Drugs in Development.
-#=> Med in Development - Eco
-***********************************************************************************
-*************************************** Round 5 **************************************
-***********************************************************************************
-
 Points: *40			Outcome: *pending*
-Total Population: *647218*
+Total Population: *756371*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Delta|        X|         O|     206|  33.105 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|      50|  13.199 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        X|         X|       2|    0.15 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|     213|  84.356 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      27|   7.578 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         X|      19|   3.729 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
+Medicine: ?thisis		(2/3)
 
-Vaccine: Procrastinalgia		(2/6)
 Events encountered:
 
 
@@ -227,26 +203,26 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Moricillus ☠ found
+#=> Nemesis Pathogen N5-10 found
 #=> Selected Pathogen has Medicine available.
-# I decide to deploy a Moricillus ☠ Medicine in 東京 #
+# I decide to deploy a N5-10 Medicine in ?? #
 ***********************************************************************************
-*************************************** Round 5 **************************************
+*************************************** Round 4 **************************************
 ***********************************************************************************
 
 Points: *30			Outcome: *pending*
-Total Population: *647218*
+Total Population: *756371*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Delta|        X|         O|     206|  32.244 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|      50|  13.199 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        X|         X|       2|    0.15 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|     213|   81.92 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      27|   7.578 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         X|      19|   3.729 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
+Medicine: ?thisis		(2/3)
 
-Vaccine: Procrastinalgia		(2/6)
 Events encountered:
 
 
@@ -256,26 +232,113 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Moricillus ☠ found
+#=> Nemesis Pathogen N5-10 found
 #=> Selected Pathogen has Medicine available.
-# I decide to deploy a Moricillus ☠ Medicine in 重庆市 #
+# I decide to deploy a N5-10 Medicine in ??? #
+***********************************************************************************
+*************************************** Round 4 **************************************
+***********************************************************************************
+
+Points: *20			Outcome: *pending*
+Total Population: *756371*
+Pathogens:
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|     213|   80.15 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      27|   7.578 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         X|      19|   3.729 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+In Development:
+Medicine: ?thisis		(2/3)
+
+Events encountered:
+
+
+
+#########################################################################################################
+########################################### First Try Decider ###########################################
+#########################################################################################################
+
+#=> No Nemesis Alpha Pathogen found.
+#=> Nemesis Pathogen N5-10 found
+#=> Selected Pathogen has Medicine available.
+# I decide to deploy a N5-10 Medicine in Jakarta #
+***********************************************************************************
+*************************************** Round 4 **************************************
+***********************************************************************************
+
+Points: *10			Outcome: *pending*
+Total Population: *756371*
+Pathogens:
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|     213|  78.179 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      27|   7.578 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         X|      19|   3.729 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+In Development:
+Medicine: ?thisis		(2/3)
+
+Events encountered:
+
+
+
+#########################################################################################################
+########################################### First Try Decider ###########################################
+#########################################################################################################
+
+#=> No Nemesis Alpha Pathogen found.
+#=> Nemesis Pathogen N5-10 found
+#=> Selected Pathogen has Medicine available.
+# I decide to deploy a N5-10 Medicine in ????? #
+***********************************************************************************
+*************************************** Round 4 **************************************
+***********************************************************************************
+
+Points: *0			Outcome: *pending*
+Total Population: *756371*
+Pathogens:
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|     213|  76.176 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      27|   7.578 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         X|      19|   3.729 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+In Development:
+Medicine: ?thisis		(2/3)
+
+Events encountered:
+
+
+
+#########################################################################################################
+########################################### First Try Decider ###########################################
+#########################################################################################################
+
+#=> No Nemesis Alpha Pathogen found.
+#=> Nemesis Pathogen N5-10 found
+#=> Selected Pathogen has Medicine available.
+# You don't have enough Points to deploy Medicine  ->  Eco #
 ***********************************************************************************
 *************************************** Round 5 **************************************
 ***********************************************************************************
 
 Points: *20			Outcome: *pending*
-Total Population: *647218*
+Total Population: *756227*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Delta|        X|         O|     206|   31.42 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|      50|  13.199 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        X|         X|       2|    0.15 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|     213|  77.587 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      27|   8.014 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|      19|   4.039 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
-Vaccine: Procrastinalgia		(2/6)
+
 Events encountered:
 
 
@@ -285,26 +348,26 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Moricillus ☠ found
+#=> Nemesis Pathogen N5-10 found
 #=> Selected Pathogen has Medicine available.
-# I decide to deploy a Moricillus ☠ Medicine in Jakarta #
+# I decide to deploy a N5-10 Medicine in ??? #
 ***********************************************************************************
 *************************************** Round 5 **************************************
 ***********************************************************************************
 
 Points: *10			Outcome: *pending*
-Total Population: *647218*
+Total Population: *756227*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Delta|        X|         O|     206|  30.749 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|      50|  13.199 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        X|         X|       2|    0.15 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|     213|  76.157 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      27|   8.014 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|      19|   4.039 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
-Vaccine: Procrastinalgia		(2/6)
+
 Events encountered:
 
 
@@ -314,26 +377,26 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Moricillus ☠ found
+#=> Nemesis Pathogen N5-10 found
 #=> Selected Pathogen has Medicine available.
-# I decide to deploy a Moricillus ☠ Medicine in मुंबई #
+# I decide to deploy a N5-10 Medicine in ?? ?????? #
 ***********************************************************************************
 *************************************** Round 5 **************************************
 ***********************************************************************************
 
 Points: *0			Outcome: *pending*
-Total Population: *647218*
+Total Population: *756227*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Delta|        X|         O|     206|  29.897 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|      50|  13.199 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        X|         X|       2|    0.15 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|     213|  74.793 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      27|   8.014 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|      19|   4.039 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
-Vaccine: Procrastinalgia		(2/6)
+
 Events encountered:
 
 
@@ -343,7 +406,7 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Moricillus ☠ found
+#=> Nemesis Pathogen N5-10 found
 #=> Selected Pathogen has Medicine available.
 # You don't have enough Points to deploy Medicine  ->  Eco #
 ***********************************************************************************
@@ -351,18 +414,18 @@ Events encountered:
 ***********************************************************************************
 
 Points: *20			Outcome: *pending*
-Total Population: *609694*
+Total Population: *564400*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Delta|        X|         O|     206|   25.85 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|      50|  14.639 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        X|         X|       2|   0.175 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|     212|  18.273 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      27|  10.978 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|      19|   5.685 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
-Vaccine: Procrastinalgia		(3/6)
+
 Events encountered:
 
 
@@ -372,26 +435,26 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Moricillus ☠ found
+#=> Nemesis Pathogen N5-10 found
 #=> Selected Pathogen has Medicine available.
-# I decide to deploy a Moricillus ☠ Medicine in 東京 #
+# I decide to deploy a N5-10 Medicine in ??? #
 ***********************************************************************************
 *************************************** Round 6 **************************************
 ***********************************************************************************
 
 Points: *10			Outcome: *pending*
-Total Population: *609694*
+Total Population: *564400*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Delta|        X|         O|     206|   25.37 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|      50|  14.639 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        X|         X|       2|   0.175 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|     212|  17.813 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      27|  10.978 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|      19|   5.685 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
-Vaccine: Procrastinalgia		(3/6)
+
 Events encountered:
 
 
@@ -401,26 +464,26 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Moricillus ☠ found
+#=> Nemesis Pathogen N5-10 found
 #=> Selected Pathogen has Medicine available.
-# I decide to deploy a Moricillus ☠ Medicine in 上海市 #
+# I decide to deploy a N5-10 Medicine in ??? #
 ***********************************************************************************
 *************************************** Round 6 **************************************
 ***********************************************************************************
 
 Points: *0			Outcome: *pending*
-Total Population: *609694*
+Total Population: *564400*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Delta|        X|         O|     206|  24.784 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|      50|  14.639 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        X|         X|       2|   0.175 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|     212|  17.418 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      27|  10.978 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|      19|   5.685 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
-Vaccine: Procrastinalgia		(3/6)
+
 Events encountered:
 
 
@@ -430,7 +493,7 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Moricillus ☠ found
+#=> Nemesis Pathogen N5-10 found
 #=> Selected Pathogen has Medicine available.
 # You don't have enough Points to deploy Medicine  ->  Eco #
 ***********************************************************************************
@@ -438,189 +501,15 @@ Events encountered:
 ***********************************************************************************
 
 Points: *20			Outcome: *pending*
-Total Population: *580643*
+Total Population: *527289*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Delta|        X|         O|     206|  21.553 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|      50|  15.523 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        X|         X|       2|   0.197 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-In Development:
-
-Vaccine: Procrastinalgia		(4/6)
-Events encountered:
-
-
-
-#########################################################################################################
-########################################### First Try Decider ###########################################
-#########################################################################################################
-
-#=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Moricillus ☠ found
-#=> Selected Pathogen has Medicine available.
-# I decide to deploy a Moricillus ☠ Medicine in Jakarta #
-***********************************************************************************
-*************************************** Round 7 **************************************
-***********************************************************************************
-
-Points: *10			Outcome: *pending*
-Total Population: *580643*
-Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Delta|        X|         O|     206|  21.183 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|      50|  15.523 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        X|         X|       2|   0.197 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-In Development:
-
-Vaccine: Procrastinalgia		(4/6)
-Events encountered:
-
-
-
-#########################################################################################################
-########################################### First Try Decider ###########################################
-#########################################################################################################
-
-#=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Moricillus ☠ found
-#=> Selected Pathogen has Medicine available.
-# I decide to deploy a Moricillus ☠ Medicine in 重庆市 #
-***********************************************************************************
-*************************************** Round 7 **************************************
-***********************************************************************************
-
-Points: *0			Outcome: *pending*
-Total Population: *580643*
-Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Delta|        X|         O|     206|  20.743 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|      50|  15.523 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        X|         X|       2|   0.197 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-In Development:
-
-Vaccine: Procrastinalgia		(4/6)
-Events encountered:
-
-
-
-#########################################################################################################
-########################################### First Try Decider ###########################################
-#########################################################################################################
-
-#=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Moricillus ☠ found
-#=> Selected Pathogen has Medicine available.
-# You don't have enough Points to deploy Medicine  ->  Eco #
-***********************************************************************************
-*************************************** Round 8 **************************************
-***********************************************************************************
-
-Points: *20			Outcome: *pending*
-Total Population: *542957*
-Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Delta|        X|         O|     206|  18.627 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|      48|   7.314 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        X|         X|       2|   0.222 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-In Development:
-
-Vaccine: Procrastinalgia		(5/6)
-Events encountered:
-
-
-
-#########################################################################################################
-########################################### First Try Decider ###########################################
-#########################################################################################################
-
-#=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Moricillus ☠ found
-#=> Selected Pathogen has Medicine available.
-# I decide to deploy a Moricillus ☠ Medicine in 東京 #
-***********************************************************************************
-*************************************** Round 8 **************************************
-***********************************************************************************
-
-Points: *10			Outcome: *pending*
-Total Population: *542957*
-Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Delta|        X|         O|     206|  18.116 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|      48|   7.314 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        X|         X|       2|   0.222 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-In Development:
-
-Vaccine: Procrastinalgia		(5/6)
-Events encountered:
-
-
-
-#########################################################################################################
-########################################### First Try Decider ###########################################
-#########################################################################################################
-
-#=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Moricillus ☠ found
-#=> Selected Pathogen has Medicine available.
-# I decide to deploy a Moricillus ☠ Medicine in मुंबई #
-***********************************************************************************
-*************************************** Round 8 **************************************
-***********************************************************************************
-
-Points: *0			Outcome: *pending*
-Total Population: *542957*
-Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Delta|        X|         O|     206|  17.746 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|      48|   7.314 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        X|         X|       2|   0.222 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-In Development:
-
-Vaccine: Procrastinalgia		(5/6)
-Events encountered:
-
-
-
-#########################################################################################################
-########################################### First Try Decider ###########################################
-#########################################################################################################
-
-#=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Moricillus ☠ found
-#=> Selected Pathogen has Medicine available.
-# You don't have enough Points to deploy Medicine  ->  Eco #
-***********************************************************************************
-*************************************** Round 9 **************************************
-***********************************************************************************
-
-Points: *20			Outcome: *pending*
-Total Population: *520235*
-Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Delta|        X|         O|     206|  15.359 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|      47|   4.747 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|    0.24 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|     209|   7.084 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      27|   4.134 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|      19|   6.277 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
 
@@ -633,227 +522,430 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Moricillus ☠ found
-#=> Selected Pathogen has Medicine available.
-# I decide to deploy a Moricillus ☠ Medicine in 重庆市 #
-***********************************************************************************
-*************************************** Round 9 **************************************
-***********************************************************************************
-
-Points: *10			Outcome: *pending*
-Total Population: *520235*
-Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Delta|        X|         O|     206|  15.008 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|      47|   4.747 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|    0.24 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-In Development:
-
-
-Events encountered:
-
-
-
-#########################################################################################################
-########################################### First Try Decider ###########################################
-#########################################################################################################
-
-#=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Moricillus ☠ found
-#=> Selected Pathogen has Medicine available.
-# I decide to deploy a Moricillus ☠ Medicine in 上海市 #
-***********************************************************************************
-*************************************** Round 9 **************************************
-***********************************************************************************
-
-Points: *0			Outcome: *pending*
-Total Population: *520235*
-Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Delta|        X|         O|     206|  14.729 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|      47|   4.747 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|    0.24 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-In Development:
-
-
-Events encountered:
-
-
-
-#########################################################################################################
-########################################### First Try Decider ###########################################
-#########################################################################################################
-
-#=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Moricillus ☠ found
-#=> Selected Pathogen has Medicine available.
-# You don't have enough Points to deploy Medicine  ->  Eco #
-***********************************************************************************
-*************************************** Round 10 **************************************
-***********************************************************************************
-
-Points: *20			Outcome: *pending*
-Total Population: *503084*
-Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Delta|        X|         O|     204|  12.625 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|      46|   3.055 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|   0.256 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-In Development:
-
-
-Events encountered:
-
-
-
-#########################################################################################################
-########################################### First Try Decider ###########################################
-#########################################################################################################
-
-#=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Moricillus ☠ found
-#=> Selected Pathogen has Medicine available.
-# I decide to deploy a Moricillus ☠ Medicine in 東京 #
-***********************************************************************************
-*************************************** Round 10 **************************************
-***********************************************************************************
-
-Points: *10			Outcome: *pending*
-Total Population: *503084*
-Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Delta|        X|         O|     204|  12.337 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|      46|   3.055 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|   0.256 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-In Development:
-
-
-Events encountered:
-
-
-
-#########################################################################################################
-########################################### First Try Decider ###########################################
-#########################################################################################################
-
-#=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Moricillus ☠ found
-#=> Selected Pathogen has Medicine available.
-# I decide to deploy a Moricillus ☠ Medicine in Jakarta #
-***********************************************************************************
-*************************************** Round 10 **************************************
-***********************************************************************************
-
-Points: *0			Outcome: *pending*
-Total Population: *503084*
-Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Delta|        X|         O|     204|  12.066 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|      46|   3.055 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|   0.256 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-In Development:
-
-
-Events encountered:
-
-
-
-#########################################################################################################
-########################################### First Try Decider ###########################################
-#########################################################################################################
-
-#=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Moricillus ☠ found
-#=> Selected Pathogen has Medicine available.
-# You don't have enough Points to deploy Medicine  ->  Eco #
-***********************************************************************************
-*************************************** Round 11 **************************************
-***********************************************************************************
-
-Points: *20			Outcome: *pending*
-Total Population: *490116*
-Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Delta|        X|         O|     204|  10.281 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|      48|   1.956 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|   0.269 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-In Development:
-
-
-Events encountered:
-
-
-
-#########################################################################################################
-########################################### First Try Decider ###########################################
-#########################################################################################################
-
-#=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Moricillus ☠ found
-#=> Selected Pathogen has Medicine available.
-# I decide to deploy a Moricillus ☠ Medicine in मुंबई #
-***********************************************************************************
-*************************************** Round 11 **************************************
-***********************************************************************************
-
-Points: *10			Outcome: *pending*
-Total Population: *490116*
-Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Delta|        X|         O|     204|  10.062 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|      48|   1.956 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|   0.269 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-In Development:
-
-
-Events encountered:
-
-
-
-#########################################################################################################
-########################################### First Try Decider ###########################################
-#########################################################################################################
-
-#=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Moricillus ☠ found
+#=> Nemesis Pathogen N5-10 found
 #=> Selected Pathogen has Medicine available.
 #=> Most Infected City is below 10%. Vaccine is needed.
 # You don't have enough points to develop a Vaccine or already has Vac  ->  Eco #
+***********************************************************************************
+*************************************** Round 8 **************************************
+***********************************************************************************
+
+Points: *40			Outcome: *pending*
+Total Population: *515640*
+Pathogens:
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|      30|   0.596 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      26|   2.446 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|      21|   8.321 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+In Development:
+
+
+Events encountered:
+
+
+
+#########################################################################################################
+########################################### First Try Decider ###########################################
+#########################################################################################################
+
+#=> No Nemesis Alpha Pathogen found.
+#=> Nemesis Pathogen ?thisis found
+#=> Selected Pathogen has Medicine available.
+# I decide to deploy a ?thisis Medicine in ?? ?????? #
+***********************************************************************************
+*************************************** Round 8 **************************************
+***********************************************************************************
+
+Points: *30			Outcome: *pending*
+Total Population: *515640*
+Pathogens:
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|      30|   0.596 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      26|   2.446 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|      21|   7.503 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+In Development:
+
+
+Events encountered:
+
+
+
+#########################################################################################################
+########################################### First Try Decider ###########################################
+#########################################################################################################
+
+#=> No Nemesis Alpha Pathogen found.
+#=> Nemesis Pathogen ?thisis found
+#=> Selected Pathogen has Medicine available.
+# I decide to deploy a ?thisis Medicine in Rio de Janeiro #
+***********************************************************************************
+*************************************** Round 8 **************************************
+***********************************************************************************
+
+Points: *20			Outcome: *pending*
+Total Population: *515640*
+Pathogens:
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|      30|   0.596 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      26|   2.446 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|      21|   6.838 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+In Development:
+
+
+Events encountered:
+
+
+
+#########################################################################################################
+########################################### First Try Decider ###########################################
+#########################################################################################################
+
+#=> No Nemesis Alpha Pathogen found.
+#=> Nemesis Pathogen ?thisis found
+#=> Selected Pathogen has Medicine available.
+# I decide to deploy a ?thisis Medicine in Washington, D.C. #
+***********************************************************************************
+*************************************** Round 8 **************************************
+***********************************************************************************
+
+Points: *10			Outcome: *pending*
+Total Population: *515640*
+Pathogens:
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|      30|   0.596 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      26|   2.446 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|      21|    6.22 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+In Development:
+
+
+Events encountered:
+
+
+
+#########################################################################################################
+########################################### First Try Decider ###########################################
+#########################################################################################################
+
+#=> No Nemesis Alpha Pathogen found.
+#=> Nemesis Pathogen ?thisis found
+#=> Selected Pathogen has Medicine available.
+# I decide to deploy a ?thisis Medicine in ?? ?????? #
+***********************************************************************************
+*************************************** Round 8 **************************************
+***********************************************************************************
+
+Points: *0			Outcome: *pending*
+Total Population: *515640*
+Pathogens:
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|      30|   0.596 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      26|   2.446 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|      21|   5.723 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+In Development:
+
+
+Events encountered:
+
+
+
+#########################################################################################################
+########################################### First Try Decider ###########################################
+#########################################################################################################
+
+#=> No Nemesis Alpha Pathogen found.
+#=> Nemesis Pathogen ?thisis found
+#=> Selected Pathogen has Medicine available.
+# You don't have enough Points to deploy Medicine  ->  Eco #
+***********************************************************************************
+*************************************** Round 9 **************************************
+***********************************************************************************
+
+Points: *20			Outcome: *pending*
+Total Population: *509795*
+Pathogens:
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       2|   0.001 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      80|  14.179 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|      54|   8.589 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+In Development:
+
+
+Events encountered:
+
+
+
+#########################################################################################################
+########################################### First Try Decider ###########################################
+#########################################################################################################
+
+#=> No Nemesis Alpha Pathogen found.
+#=> Nemesis Pathogen Azmodeus found
+#=> Selected Pathogen has Medicine available.
+# I decide to deploy a Azmodeus Medicine in Jakarta #
+***********************************************************************************
+*************************************** Round 9 **************************************
+***********************************************************************************
+
+Points: *10			Outcome: *pending*
+Total Population: *509795*
+Pathogens:
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       2|   0.001 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      80|  12.796 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|      54|   8.589 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+In Development:
+
+
+Events encountered:
+
+
+
+#########################################################################################################
+########################################### First Try Decider ###########################################
+#########################################################################################################
+
+#=> No Nemesis Alpha Pathogen found.
+#=> Nemesis Pathogen Azmodeus found
+#=> Selected Pathogen has Medicine available.
+# I decide to deploy a Azmodeus Medicine in ????? #
+***********************************************************************************
+*************************************** Round 9 **************************************
+***********************************************************************************
+
+Points: *0			Outcome: *pending*
+Total Population: *509795*
+Pathogens:
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       2|   0.001 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      80|  11.038 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|      54|   8.589 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+In Development:
+
+
+Events encountered:
+
+
+
+#########################################################################################################
+########################################### First Try Decider ###########################################
+#########################################################################################################
+
+#=> No Nemesis Alpha Pathogen found.
+#=> Nemesis Pathogen Azmodeus found
+#=> Selected Pathogen has Medicine available.
+# You don't have enough Points to deploy Medicine  ->  Eco #
+***********************************************************************************
+*************************************** Round 10 **************************************
+***********************************************************************************
+
+Points: *20			Outcome: *pending*
+Total Population: *507810*
+Pathogens:
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       2|   0.001 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|     150|  28.001 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     107|  23.028 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+In Development:
+
+
+Events encountered:
+economicCrisis
+
+
+#########################################################################################################
+########################################### First Try Decider ###########################################
+#########################################################################################################
+
+#=> No Nemesis Alpha Pathogen found.
+#=> Nemesis Pathogen Azmodeus found
+#=> Selected Pathogen has Medicine available.
+# I decide to deploy a Azmodeus Medicine in ?? #
+***********************************************************************************
+*************************************** Round 10 **************************************
+***********************************************************************************
+
+Points: *10			Outcome: *pending*
+Total Population: *507810*
+Pathogens:
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       2|   0.001 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|     150|  26.166 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     107|  23.028 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+In Development:
+
+
+Events encountered:
+economicCrisis
+
+
+#########################################################################################################
+########################################### First Try Decider ###########################################
+#########################################################################################################
+
+#=> No Nemesis Alpha Pathogen found.
+#=> Nemesis Pathogen Azmodeus found
+#=> Selected Pathogen has Medicine available.
+# I decide to deploy a Azmodeus Medicine in ??? #
+***********************************************************************************
+*************************************** Round 10 **************************************
+***********************************************************************************
+
+Points: *0			Outcome: *pending*
+Total Population: *507810*
+Pathogens:
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       2|   0.001 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|     150|  24.521 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     107|  23.028 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+In Development:
+
+
+Events encountered:
+economicCrisis
+
+
+#########################################################################################################
+########################################### First Try Decider ###########################################
+#########################################################################################################
+
+#=> No Nemesis Alpha Pathogen found.
+#=> Nemesis Pathogen Azmodeus found
+#=> Selected Pathogen has Medicine available.
+# You don't have enough Points to deploy Medicine  ->  Eco #
+***********************************************************************************
+*************************************** Round 11 **************************************
+***********************************************************************************
+
+Points: *20			Outcome: *pending*
+Total Population: *506600*
+Pathogens:
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       2|   0.001 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|     142|  29.625 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     107|  28.547 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+In Development:
+
+
+Events encountered:
+
+
+
+#########################################################################################################
+########################################### First Try Decider ###########################################
+#########################################################################################################
+
+#=> No Nemesis Alpha Pathogen found.
+#=> Nemesis Pathogen Azmodeus found
+#=> Selected Pathogen has Medicine available.
+# I decide to deploy a Azmodeus Medicine in Jakarta #
+***********************************************************************************
+*************************************** Round 11 **************************************
+***********************************************************************************
+
+Points: *10			Outcome: *pending*
+Total Population: *506600*
+Pathogens:
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       2|   0.001 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|     142|  28.155 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     107|  28.547 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+In Development:
+
+
+Events encountered:
+
+
+
+#########################################################################################################
+########################################### First Try Decider ###########################################
+#########################################################################################################
+
+#=> No Nemesis Alpha Pathogen found.
+#=> Nemesis Pathogen ?thisis found
+#=> Selected Pathogen has Medicine available.
+# I decide to deploy a ?thisis Medicine in ??? #
+***********************************************************************************
+*************************************** Round 11 **************************************
+***********************************************************************************
+
+Points: *0			Outcome: *pending*
+Total Population: *506600*
+Pathogens:
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       2|   0.001 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|     142|  28.155 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     107|  27.175 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+In Development:
+
+
+Events encountered:
+
+
+
+#########################################################################################################
+########################################### First Try Decider ###########################################
+#########################################################################################################
+
+#=> No Nemesis Alpha Pathogen found.
+#=> Nemesis Pathogen Azmodeus found
+#=> Selected Pathogen has Medicine available.
+# You don't have enough Points to deploy Medicine  ->  Eco #
 ***********************************************************************************
 *************************************** Round 12 **************************************
 ***********************************************************************************
 
-Points: *30			Outcome: *pending*
-Total Population: *480074*
+Points: *20			Outcome: *pending*
+Total Population: *505949*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Delta|        X|         O|     203|   8.501 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|      48|   1.247 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|   0.279 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       1|   0.001 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|     125|  31.062 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     111|  31.617 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
 
@@ -865,25 +957,85 @@ Events encountered:
 ########################################### First Try Decider ###########################################
 #########################################################################################################
 
+#=> Found a Nemesis Pathogen *N5-10* with only one City infected.
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Moricillus ☠ found
+#=> Nemesis Pathogen ?thisis found
 #=> Selected Pathogen has Medicine available.
-#=> Most Infected City is below 10%. Vaccine is needed.
-# You don't have enough points to develop a Vaccine or already has Vac  ->  Eco #
+# I decide to deploy a ?thisis Medicine in ??? #
+***********************************************************************************
+*************************************** Round 12 **************************************
+***********************************************************************************
+
+Points: *10			Outcome: *pending*
+Total Population: *505949*
+Pathogens:
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       1|   0.001 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|     125|  31.062 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     111|  30.386 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+In Development:
+
+
+Events encountered:
+
+
+
+#########################################################################################################
+########################################### First Try Decider ###########################################
+#########################################################################################################
+
+#=> Found a Nemesis Pathogen *N5-10* with only one City infected.
+#=> No Nemesis Alpha Pathogen found.
+#=> Nemesis Pathogen Azmodeus found
+#=> Selected Pathogen has Medicine available.
+# I decide to deploy a Azmodeus Medicine in ?? #
+***********************************************************************************
+*************************************** Round 12 **************************************
+***********************************************************************************
+
+Points: *0			Outcome: *pending*
+Total Population: *505949*
+Pathogens:
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       1|   0.001 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|     125|  29.584 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     111|  30.386 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+In Development:
+
+
+Events encountered:
+
+
+
+#########################################################################################################
+########################################### First Try Decider ###########################################
+#########################################################################################################
+
+#=> Found a Nemesis Pathogen *N5-10* with only one City infected.
+#=> No Nemesis Alpha Pathogen found.
+#=> Nemesis Pathogen ?thisis found
+#=> Selected Pathogen has Medicine available.
+# You don't have enough Points to deploy Medicine  ->  Eco #
 ***********************************************************************************
 *************************************** Round 13 **************************************
 ***********************************************************************************
 
-Points: *50			Outcome: *pending*
-Total Population: *472030*
+Points: *20			Outcome: *pending*
+Total Population: *505672*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Delta|        X|         O|     202|   7.051 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|      29|    0.57 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|   0.288 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       1|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|     125|  31.528 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     120|  35.198 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
 
@@ -895,28 +1047,28 @@ Events encountered:
 ########################################### First Try Decider ###########################################
 #########################################################################################################
 
+#=> Found a Nemesis Pathogen *N5-10* with only one City infected.
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Moricillus ☠ found
+#=> Nemesis Pathogen ?thisis found
 #=> Selected Pathogen has Medicine available.
-#=> Most Infected City is below 10%. Vaccine is needed.
-# I decide to develop a Vaccine for Moricillus ☠ #
+# I decide to deploy a ?thisis Medicine in ?? ?????? #
 ***********************************************************************************
 *************************************** Round 13 **************************************
 ***********************************************************************************
 
 Points: *10			Outcome: *pending*
-Total Population: *472030*
+Total Population: *505672*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Omega|        X|         O|     202|   7.051 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|      29|    0.57 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|   0.288 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       1|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|     125|  31.528 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     120|  34.172 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
-Vaccine: Moricillus ☠		(0/6)
+
 Events encountered:
 
 
@@ -925,28 +1077,58 @@ Events encountered:
 ########################################### First Try Decider ###########################################
 #########################################################################################################
 
+#=> Found a Nemesis Pathogen *N5-10* with only one City infected.
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Moricillus ☠ found
+#=> Nemesis Pathogen ?thisis found
 #=> Selected Pathogen has Medicine available.
-#=> Most Infected City is below 10%. Vaccine is needed.
-# You don't have enough points to develop a Vaccine or already has Vac  ->  Eco #
+# I decide to deploy a ?thisis Medicine in ??? #
+***********************************************************************************
+*************************************** Round 13 **************************************
+***********************************************************************************
+
+Points: *0			Outcome: *pending*
+Total Population: *505672*
+Pathogens:
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       1|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|     125|  31.528 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     120|  33.098 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+In Development:
+
+
+Events encountered:
+
+
+
+#########################################################################################################
+########################################### First Try Decider ###########################################
+#########################################################################################################
+
+#=> Found a Nemesis Pathogen *N5-10* with only one City infected.
+#=> No Nemesis Alpha Pathogen found.
+#=> Nemesis Pathogen ?thisis found
+#=> Selected Pathogen has Medicine available.
+# You don't have enough Points to deploy Medicine  ->  Eco #
 ***********************************************************************************
 *************************************** Round 14 **************************************
 ***********************************************************************************
 
-Points: *30			Outcome: *pending*
-Total Population: *465654*
+Points: *20			Outcome: *pending*
+Total Population: *493667*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Omega|        X|         O|     212|   6.389 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|       4|   0.009 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|   0.295 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|     125|  25.752 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     125|  37.328 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
-Vaccine: Moricillus ☠		(1/6)
+
 Events encountered:
 
 
@@ -956,27 +1138,26 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Moricillus ☠ found
+#=> Nemesis Pathogen ?thisis found
 #=> Selected Pathogen has Medicine available.
-#=> Most Infected City is below 10%. Vaccine is needed.
-# You don't have enough points to develop a Vaccine or already has Vac  ->  Eco #
+# I decide to deploy a ?thisis Medicine in ??? #
 ***********************************************************************************
-*************************************** Round 15 **************************************
+*************************************** Round 14 **************************************
 ***********************************************************************************
 
-Points: *50			Outcome: *pending*
-Total Population: *460744*
+Points: *10			Outcome: *pending*
+Total Population: *493667*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Omega|        X|         O|     234|    8.72 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|       6|   0.016 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|   0.301 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|     125|  25.752 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     125|  36.467 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
-Vaccine: Moricillus ☠		(2/6)
+
 Events encountered:
 
 
@@ -986,26 +1167,26 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Moricillus ☠ found
+#=> Nemesis Pathogen ?thisis found
 #=> Selected Pathogen has Medicine available.
-# I decide to deploy a Moricillus ☠ Medicine in 临沂市 #
+# I decide to deploy a ?thisis Medicine in Los Angeles #
 ***********************************************************************************
-*************************************** Round 15 **************************************
+*************************************** Round 14 **************************************
 ***********************************************************************************
 
-Points: *40			Outcome: *pending*
-Total Population: *460744*
+Points: *0			Outcome: *pending*
+Total Population: *493667*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Omega|        X|         O|     234|   8.459 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|       6|   0.016 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|   0.301 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|     125|  25.752 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     125|  35.545 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
-Vaccine: Moricillus ☠		(2/6)
+
 Events encountered:
 
 
@@ -1015,55 +1196,26 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Moricillus ☠ found
+#=> Nemesis Pathogen ?thisis found
 #=> Selected Pathogen has Medicine available.
-# I decide to deploy a Moricillus ☠ Medicine in Lima #
-***********************************************************************************
-*************************************** Round 15 **************************************
-***********************************************************************************
-
-Points: *30			Outcome: *pending*
-Total Population: *460744*
-Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Omega|        X|         O|     234|   8.201 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|       6|   0.016 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|   0.301 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-In Development:
-
-Vaccine: Moricillus ☠		(2/6)
-Events encountered:
-
-
-
-#########################################################################################################
-########################################### First Try Decider ###########################################
-#########################################################################################################
-
-#=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Moricillus ☠ found
-#=> Selected Pathogen has Medicine available.
-# I decide to deploy a Moricillus ☠ Medicine in Bogotá #
+# You don't have enough Points to deploy Medicine  ->  Eco #
 ***********************************************************************************
 *************************************** Round 15 **************************************
 ***********************************************************************************
 
 Points: *20			Outcome: *pending*
-Total Population: *460744*
+Total Population: *472758*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Omega|        X|         O|     234|   8.027 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|       6|   0.016 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|   0.301 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|     125|  12.428 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     114|  39.178 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
-Vaccine: Moricillus ☠		(2/6)
+
 Events encountered:
 
 
@@ -1073,26 +1225,26 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Moricillus ☠ found
+#=> Nemesis Pathogen ?thisis found
 #=> Selected Pathogen has Medicine available.
-# I decide to deploy a Moricillus ☠ Medicine in Houston #
+# I decide to deploy a ?thisis Medicine in ?????? #
 ***********************************************************************************
 *************************************** Round 15 **************************************
 ***********************************************************************************
 
 Points: *10			Outcome: *pending*
-Total Population: *460744*
+Total Population: *472758*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Omega|        X|         O|     234|    7.83 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|       6|   0.016 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|   0.301 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|     125|  12.428 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     114|  38.308 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
-Vaccine: Moricillus ☠		(2/6)
+
 Events encountered:
 
 
@@ -1102,26 +1254,26 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Moricillus ☠ found
+#=> Nemesis Pathogen ?thisis found
 #=> Selected Pathogen has Medicine available.
-# I decide to deploy a Moricillus ☠ Medicine in 临沂市 #
+# I decide to deploy a ?thisis Medicine in ??? #
 ***********************************************************************************
 *************************************** Round 15 **************************************
 ***********************************************************************************
 
 Points: *0			Outcome: *pending*
-Total Population: *460744*
+Total Population: *472758*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Omega|        X|         O|     234|   7.666 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|       6|   0.016 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|   0.301 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|     125|  12.428 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     114|  37.578 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
-Vaccine: Moricillus ☠		(2/6)
+
 Events encountered:
 
 
@@ -1131,7 +1283,7 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Moricillus ☠ found
+#=> Nemesis Pathogen ?thisis found
 #=> Selected Pathogen has Medicine available.
 # You don't have enough Points to deploy Medicine  ->  Eco #
 ***********************************************************************************
@@ -1139,18 +1291,18 @@ Events encountered:
 ***********************************************************************************
 
 Points: *20			Outcome: *pending*
-Total Population: *457783*
+Total Population: *459887*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Omega|        X|         O|      58|   6.377 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|       7|    0.03 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|    0.28 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|     134|  11.036 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     112|  34.849 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
-Vaccine: Moricillus ☠		(3/6)
+
 Events encountered:
 
 
@@ -1160,26 +1312,26 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Moricillus ☠ found
+#=> Nemesis Pathogen ?thisis found
 #=> Selected Pathogen has Medicine available.
-# I decide to deploy a Moricillus ☠ Medicine in Lima #
+# I decide to deploy a ?thisis Medicine in ??? #
 ***********************************************************************************
 *************************************** Round 16 **************************************
 ***********************************************************************************
 
 Points: *10			Outcome: *pending*
-Total Population: *457783*
+Total Population: *459887*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Omega|        X|         O|      58|   6.116 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|       7|    0.03 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|    0.28 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|     134|  11.036 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     112|  34.274 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
-Vaccine: Moricillus ☠		(3/6)
+
 Events encountered:
 
 
@@ -1189,26 +1341,26 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Moricillus ☠ found
+#=> Nemesis Pathogen ?thisis found
 #=> Selected Pathogen has Medicine available.
-# I decide to deploy a Moricillus ☠ Medicine in Atlanta #
+# I decide to deploy a ?thisis Medicine in ??? #
 ***********************************************************************************
 *************************************** Round 16 **************************************
 ***********************************************************************************
 
 Points: *0			Outcome: *pending*
-Total Population: *457783*
+Total Population: *459887*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Omega|        X|         O|      58|    5.89 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|       7|    0.03 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|    0.28 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|     134|  11.036 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     112|  33.574 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
-Vaccine: Moricillus ☠		(3/6)
+
 Events encountered:
 
 
@@ -1218,7 +1370,7 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Moricillus ☠ found
+#=> Nemesis Pathogen ?thisis found
 #=> Selected Pathogen has Medicine available.
 # You don't have enough Points to deploy Medicine  ->  Eco #
 ***********************************************************************************
@@ -1226,18 +1378,18 @@ Events encountered:
 ***********************************************************************************
 
 Points: *20			Outcome: *pending*
-Total Population: *455774*
+Total Population: *443928*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Omega|        X|         O|      46|   6.676 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|      21|   6.351 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|   0.196 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|     137|   9.742 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     114|  23.673 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
-Vaccine: Moricillus ☠		(4/6)
+
 Events encountered:
 
 
@@ -1247,26 +1399,26 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Moricillus ☠ found
+#=> Nemesis Pathogen ?thisis found
 #=> Selected Pathogen has Medicine available.
-# I decide to deploy a Moricillus ☠ Medicine in 临沂市 #
+# I decide to deploy a ?thisis Medicine in Lima #
 ***********************************************************************************
 *************************************** Round 17 **************************************
 ***********************************************************************************
 
 Points: *10			Outcome: *pending*
-Total Population: *455774*
+Total Population: *443928*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Omega|        X|         O|      46|    6.37 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|      21|   6.351 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|   0.196 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|     137|   9.742 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     114|  22.829 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
-Vaccine: Moricillus ☠		(4/6)
+
 Events encountered:
 
 
@@ -1276,26 +1428,26 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Moricillus ☠ found
+#=> Nemesis Pathogen ?thisis found
 #=> Selected Pathogen has Medicine available.
-# I decide to deploy a Moricillus ☠ Medicine in Santiago de Chile #
+# I decide to deploy a ?thisis Medicine in ??? #
 ***********************************************************************************
 *************************************** Round 17 **************************************
 ***********************************************************************************
 
 Points: *0			Outcome: *pending*
-Total Population: *455774*
+Total Population: *443928*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Omega|        X|         O|      46|   6.157 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|      21|   6.351 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|   0.196 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|     137|   9.742 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     114|  22.245 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
-Vaccine: Moricillus ☠		(4/6)
+
 Events encountered:
 
 
@@ -1305,7 +1457,7 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Hexapox found
+#=> Nemesis Pathogen ?thisis found
 #=> Selected Pathogen has Medicine available.
 # You don't have enough Points to deploy Medicine  ->  Eco #
 ***********************************************************************************
@@ -1313,20 +1465,20 @@ Events encountered:
 ***********************************************************************************
 
 Points: *20			Outcome: *pending*
-Total Population: *449437*
+Total Population: *436690*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Omega|        X|         O|      46|   4.447 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|      44|   15.91 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|   0.157 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|     116|   8.204 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     116|   18.57 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
-Vaccine: Moricillus ☠		(5/6)
-Events encountered:
 
+Events encountered:
+largeScalePanic
 
 
 #########################################################################################################
@@ -1334,28 +1486,28 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Hexapox found
+#=> Nemesis Pathogen ?thisis found
 #=> Selected Pathogen has Medicine available.
-# I decide to deploy a Hexapox Medicine in 北京市 #
+# I decide to deploy a ?thisis Medicine in Dallas #
 ***********************************************************************************
 *************************************** Round 18 **************************************
 ***********************************************************************************
 
 Points: *10			Outcome: *pending*
-Total Population: *449437*
+Total Population: *436690*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Omega|        X|         O|      46|   4.447 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|      44|  14.966 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|   0.157 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|     116|   8.204 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     116|  17.908 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
-Vaccine: Moricillus ☠		(5/6)
-Events encountered:
 
+Events encountered:
+largeScalePanic
 
 
 #########################################################################################################
@@ -1363,28 +1515,28 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Hexapox found
+#=> Nemesis Pathogen ?thisis found
 #=> Selected Pathogen has Medicine available.
-# I decide to deploy a Hexapox Medicine in 上海市 #
+# I decide to deploy a ?thisis Medicine in ??????? #
 ***********************************************************************************
 *************************************** Round 18 **************************************
 ***********************************************************************************
 
 Points: *0			Outcome: *pending*
-Total Population: *449437*
+Total Population: *436690*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Omega|        X|         O|      46|   4.447 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|      44|  13.739 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|   0.157 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|     116|   8.204 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     116|  17.436 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
-Vaccine: Moricillus ☠		(5/6)
-Events encountered:
 
+Events encountered:
+largeScalePanic
 
 
 #########################################################################################################
@@ -1392,7 +1544,7 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Hexapox found
+#=> Nemesis Pathogen ?thisis found
 #=> Selected Pathogen has Medicine available.
 # You don't have enough Points to deploy Medicine  ->  Eco #
 ***********************************************************************************
@@ -1400,15 +1552,15 @@ Events encountered:
 ***********************************************************************************
 
 Points: *20			Outcome: *pending*
-Total Population: *445750*
+Total Population: *431641*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Omega|        O|         O|      46|    3.72 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|     146|  43.722 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|   0.125 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      74|   7.343 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     126|  14.734 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
 
@@ -1421,23 +1573,23 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Hexapox found
+#=> Nemesis Pathogen ?thisis found
 #=> Selected Pathogen has Medicine available.
-# I decide to deploy a Hexapox Medicine in 東京 #
+# I decide to deploy a ?thisis Medicine in Houston #
 ***********************************************************************************
 *************************************** Round 19 **************************************
 ***********************************************************************************
 
 Points: *10			Outcome: *pending*
-Total Population: *445750*
+Total Population: *431641*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Omega|        O|         O|      46|    3.72 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|     146|  41.828 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|   0.125 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      74|   7.343 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     126|  14.271 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
 
@@ -1450,23 +1602,23 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Hexapox found
+#=> Nemesis Pathogen ?thisis found
 #=> Selected Pathogen has Medicine available.
-# I decide to deploy a Hexapox Medicine in 重庆市 #
+# I decide to deploy a ?thisis Medicine in Bogot� #
 ***********************************************************************************
 *************************************** Round 19 **************************************
 ***********************************************************************************
 
 Points: *0			Outcome: *pending*
-Total Population: *445750*
+Total Population: *431641*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Omega|        O|         O|      46|    3.72 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|     146|  40.138 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|   0.125 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      74|   7.343 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     126|   13.84 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
 
@@ -1479,7 +1631,7 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Hexapox found
+#=> Nemesis Pathogen ?thisis found
 #=> Selected Pathogen has Medicine available.
 # You don't have enough Points to deploy Medicine  ->  Eco #
 ***********************************************************************************
@@ -1487,15 +1639,15 @@ Events encountered:
 ***********************************************************************************
 
 Points: *20			Outcome: *pending*
-Total Population: *442651*
+Total Population: *427471*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Omega|        O|         O|      46|   3.076 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|     195|  56.684 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|     0.1 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      20|   6.442 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     151|  16.933 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
 
@@ -1508,23 +1660,23 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Hexapox found
+#=> Nemesis Pathogen ?thisis found
 #=> Selected Pathogen has Medicine available.
-# I decide to deploy a Hexapox Medicine in Jakarta #
+# I decide to deploy a ?thisis Medicine in Jakarta #
 ***********************************************************************************
 *************************************** Round 20 **************************************
 ***********************************************************************************
 
 Points: *10			Outcome: *pending*
-Total Population: *442651*
+Total Population: *427471*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Omega|        O|         O|      46|   3.076 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|     195|  55.082 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|     0.1 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      20|   6.442 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     151|  15.409 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
 
@@ -1537,23 +1689,23 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Hexapox found
+#=> Nemesis Pathogen ?thisis found
 #=> Selected Pathogen has Medicine available.
-# I decide to deploy a Hexapox Medicine in मुंबई #
+# I decide to deploy a ?thisis Medicine in ????? #
 ***********************************************************************************
 *************************************** Round 20 **************************************
 ***********************************************************************************
 
 Points: *0			Outcome: *pending*
-Total Population: *442651*
+Total Population: *427471*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Omega|        O|         O|      46|   3.076 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|     195|   53.53 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|     0.1 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      20|   6.442 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     151|  14.137 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
 
@@ -1566,7 +1718,7 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Hexapox found
+#=> Nemesis Pathogen ?thisis found
 #=> Selected Pathogen has Medicine available.
 # You don't have enough Points to deploy Medicine  ->  Eco #
 ***********************************************************************************
@@ -1574,15 +1726,15 @@ Events encountered:
 ***********************************************************************************
 
 Points: *20			Outcome: *pending*
-Total Population: *439996*
+Total Population: *419497*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Omega|        O|         O|      46|   2.447 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|     202|  63.815 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|   0.079 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      20|   3.233 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     213|  26.578 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
 
@@ -1595,23 +1747,23 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Hexapox found
+#=> Nemesis Pathogen ?thisis found
 #=> Selected Pathogen has Medicine available.
-# I decide to deploy a Hexapox Medicine in 東京 #
+# I decide to deploy a ?thisis Medicine in ?? #
 ***********************************************************************************
 *************************************** Round 21 **************************************
 ***********************************************************************************
 
 Points: *10			Outcome: *pending*
-Total Population: *439996*
+Total Population: *419497*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Omega|        O|         O|      46|   2.447 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|     202|    62.2 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|   0.079 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      20|   3.233 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     213|  25.027 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
 
@@ -1624,23 +1776,23 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Hexapox found
+#=> Nemesis Pathogen ?thisis found
 #=> Selected Pathogen has Medicine available.
-# I decide to deploy a Hexapox Medicine in नई दिल्ली #
+# I decide to deploy a ?thisis Medicine in ??? #
 ***********************************************************************************
 *************************************** Round 21 **************************************
 ***********************************************************************************
 
 Points: *0			Outcome: *pending*
-Total Population: *439996*
+Total Population: *419497*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Omega|        O|         O|      46|   2.447 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|     202|  60.756 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|   0.079 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      20|   3.233 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     213|  23.977 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
 
@@ -1653,7 +1805,7 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Hexapox found
+#=> Nemesis Pathogen ?thisis found
 #=> Selected Pathogen has Medicine available.
 # You don't have enough Points to deploy Medicine  ->  Eco #
 ***********************************************************************************
@@ -1661,15 +1813,15 @@ Events encountered:
 ***********************************************************************************
 
 Points: *20			Outcome: *pending*
-Total Population: *437899*
+Total Population: *415335*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Omega|        O|         O|      46|   1.945 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|     203|  66.708 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|   0.063 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      21|   4.338 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     208|  28.338 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
 
@@ -1682,23 +1834,23 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Hexapox found
+#=> Nemesis Pathogen ?thisis found
 #=> Selected Pathogen has Medicine available.
-# I decide to deploy a Hexapox Medicine in 重庆市 #
+# I decide to deploy a ?thisis Medicine in ?? #
 ***********************************************************************************
 *************************************** Round 22 **************************************
 ***********************************************************************************
 
 Points: *10			Outcome: *pending*
-Total Population: *437899*
+Total Population: *415335*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Omega|        O|         O|      46|   1.945 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|     203|  65.182 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|   0.063 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      21|   4.338 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     208|  26.856 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
 
@@ -1711,23 +1863,23 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Hexapox found
+#=> Nemesis Pathogen ?thisis found
 #=> Selected Pathogen has Medicine available.
-# I decide to deploy a Hexapox Medicine in Jakarta #
+# I decide to deploy a ?thisis Medicine in Jakarta #
 ***********************************************************************************
 *************************************** Round 22 **************************************
 ***********************************************************************************
 
 Points: *0			Outcome: *pending*
-Total Population: *437899*
+Total Population: *415335*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Omega|        O|         O|      46|   1.945 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|     203|  63.658 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|   0.063 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      21|   4.338 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     208|  25.459 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
 
@@ -1740,7 +1892,7 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Hexapox found
+#=> Nemesis Pathogen ?thisis found
 #=> Selected Pathogen has Medicine available.
 # You don't have enough Points to deploy Medicine  ->  Eco #
 ***********************************************************************************
@@ -1748,15 +1900,15 @@ Events encountered:
 ***********************************************************************************
 
 Points: *20			Outcome: *pending*
-Total Population: *430346*
+Total Population: *412381*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Omega|        O|         O|      46|   1.565 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|     202|  63.372 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|    0.05 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      28|   4.849 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     178|   27.86 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
 
@@ -1769,23 +1921,23 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Hexapox found
+#=> Nemesis Pathogen ?thisis found
 #=> Selected Pathogen has Medicine available.
-# I decide to deploy a Hexapox Medicine in मुंबई #
+# I decide to deploy a ?thisis Medicine in ????? #
 ***********************************************************************************
 *************************************** Round 23 **************************************
 ***********************************************************************************
 
 Points: *10			Outcome: *pending*
-Total Population: *430346*
+Total Population: *412381*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Omega|        O|         O|      46|   1.565 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|     202|  61.962 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|    0.05 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      28|   4.849 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     178|  26.615 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
 
@@ -1798,23 +1950,23 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Hexapox found
+#=> Nemesis Pathogen ?thisis found
 #=> Selected Pathogen has Medicine available.
-# I decide to deploy a Hexapox Medicine in 上海市 #
+# I decide to deploy a ?thisis Medicine in ??? #
 ***********************************************************************************
 *************************************** Round 23 **************************************
 ***********************************************************************************
 
 Points: *0			Outcome: *pending*
-Total Population: *430346*
+Total Population: *412381*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Omega|        O|         O|      46|   1.565 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|     202|  60.784 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|    0.05 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      28|   4.849 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     178|  25.656 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
 
@@ -1827,7 +1979,7 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Hexapox found
+#=> Nemesis Pathogen ?thisis found
 #=> Selected Pathogen has Medicine available.
 # You don't have enough Points to deploy Medicine  ->  Eco #
 ***********************************************************************************
@@ -1835,15 +1987,15 @@ Events encountered:
 ***********************************************************************************
 
 Points: *20			Outcome: *pending*
-Total Population: *419614*
+Total Population: *410934*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Omega|        O|         O|      45|    1.27 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|     201|  56.796 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|   0.041 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      49|   9.685 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     146|  26.863 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
 
@@ -1856,23 +2008,23 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Hexapox found
+#=> Nemesis Pathogen ?thisis found
 #=> Selected Pathogen has Medicine available.
-# I decide to deploy a Hexapox Medicine in 東京 #
+# I decide to deploy a ?thisis Medicine in ?? #
 ***********************************************************************************
 *************************************** Round 24 **************************************
 ***********************************************************************************
 
 Points: *10			Outcome: *pending*
-Total Population: *419614*
+Total Population: *410934*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Omega|        O|         O|      45|    1.27 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|     201|  55.627 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|   0.041 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      49|   9.685 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     146|  25.624 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
 
@@ -1885,23 +2037,23 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Hexapox found
+#=> Nemesis Pathogen ?thisis found
 #=> Selected Pathogen has Medicine available.
-# I decide to deploy a Hexapox Medicine in 成都市 #
+# I decide to deploy a ?thisis Medicine in ??? #
 ***********************************************************************************
 *************************************** Round 24 **************************************
 ***********************************************************************************
 
 Points: *0			Outcome: *pending*
-Total Population: *419614*
+Total Population: *410934*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Omega|        O|         O|      45|    1.27 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|     201|  54.655 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|   0.041 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      49|   9.685 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     146|  24.277 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
 
@@ -1914,7 +2066,7 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Hexapox found
+#=> Nemesis Pathogen ?thisis found
 #=> Selected Pathogen has Medicine available.
 # You don't have enough Points to deploy Medicine  ->  Eco #
 ***********************************************************************************
@@ -1922,15 +2074,15 @@ Events encountered:
 ***********************************************************************************
 
 Points: *20			Outcome: *pending*
-Total Population: *393589*
+Total Population: *410195*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Omega|        O|         O|      45|   1.072 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|     201|  37.743 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|   0.035 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      60|  14.761 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     144|   25.89 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
 
@@ -1943,23 +2095,23 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Hexapox found
+#=> Nemesis Pathogen ?thisis found
 #=> Selected Pathogen has Medicine available.
-# I decide to deploy a Hexapox Medicine in 重庆市 #
+# I decide to deploy a ?thisis Medicine in Jakarta #
 ***********************************************************************************
 *************************************** Round 25 **************************************
 ***********************************************************************************
 
 Points: *10			Outcome: *pending*
-Total Population: *393589*
+Total Population: *410195*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Omega|        O|         O|      45|   1.072 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|     201|  37.087 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|   0.035 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      60|  14.761 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     144|  24.995 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
 
@@ -1972,23 +2124,23 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Hexapox found
+#=> Nemesis Pathogen ?thisis found
 #=> Selected Pathogen has Medicine available.
-# I decide to deploy a Hexapox Medicine in تهران #
+# I decide to deploy a ?thisis Medicine in ????? #
 ***********************************************************************************
 *************************************** Round 25 **************************************
 ***********************************************************************************
 
 Points: *0			Outcome: *pending*
-Total Population: *393589*
+Total Population: *410195*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Omega|        O|         O|      45|   1.072 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|     201|  36.472 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|   0.035 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      60|  14.761 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     144|  24.131 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
 
@@ -2001,23 +2153,23 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Hexapox found
+#=> Nemesis Pathogen ?thisis found
 #=> Selected Pathogen has Medicine available.
 # You don't have enough Points to deploy Medicine  ->  Eco #
 ***********************************************************************************
 *************************************** Round 26 **************************************
 ***********************************************************************************
 
-Points: *20			Outcome: *loss*
-Total Population: *376122*
+Points: *20			Outcome: *pending*
+Total Population: *409258*
 Pathogens:
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|             Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
-|     Moricillus ☠|  Omega|        O|         O|      45|   0.888 %|    -|    o|    -|    +|
-|          Hexapox|  Delta|        X|         O|     201|  23.852 %|    o|    +|    o|    o|
-|  Procrastinalgia|   Beta|        O|         X|       2|   0.028 %|    -|   --|   ++|   --|
-+-----------------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      76|  20.994 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     139|  24.681 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
 In Development:
 
 
@@ -2030,6 +2182,354 @@ Events encountered:
 #########################################################################################################
 
 #=> No Nemesis Alpha Pathogen found.
-#=> Nemesis Pathogen Hexapox found
+#=> Nemesis Pathogen ?thisis found
 #=> Selected Pathogen has Medicine available.
-# I decide to deploy a Hexapox Medicine in London #
+# I decide to deploy a ?thisis Medicine in ??? #
+***********************************************************************************
+*************************************** Round 26 **************************************
+***********************************************************************************
+
+Points: *10			Outcome: *pending*
+Total Population: *409258*
+Pathogens:
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      76|  20.994 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     139|  23.686 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+In Development:
+
+
+Events encountered:
+
+
+
+#########################################################################################################
+########################################### First Try Decider ###########################################
+#########################################################################################################
+
+#=> No Nemesis Alpha Pathogen found.
+#=> Nemesis Pathogen ?thisis found
+#=> Selected Pathogen has Medicine available.
+# I decide to deploy a ?thisis Medicine in ?? #
+***********************************************************************************
+*************************************** Round 26 **************************************
+***********************************************************************************
+
+Points: *0			Outcome: *pending*
+Total Population: *409258*
+Pathogens:
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      76|  20.994 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     139|  22.876 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+In Development:
+
+
+Events encountered:
+
+
+
+#########################################################################################################
+########################################### First Try Decider ###########################################
+#########################################################################################################
+
+#=> No Nemesis Alpha Pathogen found.
+#=> Nemesis Pathogen ?thisis found
+#=> Selected Pathogen has Medicine available.
+# You don't have enough Points to deploy Medicine  ->  Eco #
+***********************************************************************************
+*************************************** Round 27 **************************************
+***********************************************************************************
+
+Points: *20			Outcome: *pending*
+Total Population: *403412*
+Pathogens:
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      83|  26.446 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     132|  21.824 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+In Development:
+
+
+Events encountered:
+
+
+
+#########################################################################################################
+########################################### First Try Decider ###########################################
+#########################################################################################################
+
+#=> No Nemesis Alpha Pathogen found.
+#=> Nemesis Pathogen Azmodeus found
+#=> Selected Pathogen has Medicine available.
+# I decide to deploy a Azmodeus Medicine in ??? #
+***********************************************************************************
+*************************************** Round 27 **************************************
+***********************************************************************************
+
+Points: *10			Outcome: *pending*
+Total Population: *403412*
+Pathogens:
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      83|  25.227 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     132|  21.824 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+In Development:
+
+
+Events encountered:
+
+
+
+#########################################################################################################
+########################################### First Try Decider ###########################################
+#########################################################################################################
+
+#=> No Nemesis Alpha Pathogen found.
+#=> Nemesis Pathogen Azmodeus found
+#=> Selected Pathogen has Medicine available.
+# I decide to deploy a Azmodeus Medicine in ?? ?????? #
+***********************************************************************************
+*************************************** Round 27 **************************************
+***********************************************************************************
+
+Points: *0			Outcome: *pending*
+Total Population: *403412*
+Pathogens:
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      83|  24.536 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     132|  21.824 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+In Development:
+
+
+Events encountered:
+
+
+
+#########################################################################################################
+########################################### First Try Decider ###########################################
+#########################################################################################################
+
+#=> No Nemesis Alpha Pathogen found.
+#=> Nemesis Pathogen Azmodeus found
+#=> Selected Pathogen has Medicine available.
+# You don't have enough Points to deploy Medicine  ->  Eco #
+***********************************************************************************
+*************************************** Round 28 **************************************
+***********************************************************************************
+
+Points: *20			Outcome: *pending*
+Total Population: *394015*
+Pathogens:
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      84|   31.55 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     126|  14.004 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+In Development:
+
+
+Events encountered:
+
+
+
+#########################################################################################################
+########################################### First Try Decider ###########################################
+#########################################################################################################
+
+#=> No Nemesis Alpha Pathogen found.
+#=> Nemesis Pathogen Azmodeus found
+#=> Selected Pathogen has Medicine available.
+# I decide to deploy a Azmodeus Medicine in ??? #
+***********************************************************************************
+*************************************** Round 28 **************************************
+***********************************************************************************
+
+Points: *10			Outcome: *pending*
+Total Population: *394015*
+Pathogens:
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      84|  29.446 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     126|  14.004 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+In Development:
+
+
+Events encountered:
+
+
+
+#########################################################################################################
+########################################### First Try Decider ###########################################
+#########################################################################################################
+
+#=> No Nemesis Alpha Pathogen found.
+#=> Nemesis Pathogen Azmodeus found
+#=> Selected Pathogen has Medicine available.
+# I decide to deploy a Azmodeus Medicine in ??? #
+***********************************************************************************
+*************************************** Round 28 **************************************
+***********************************************************************************
+
+Points: *0			Outcome: *pending*
+Total Population: *394015*
+Pathogens:
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      84|  28.512 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     126|  14.004 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+In Development:
+
+
+Events encountered:
+
+
+
+#########################################################################################################
+########################################### First Try Decider ###########################################
+#########################################################################################################
+
+#=> No Nemesis Alpha Pathogen found.
+#=> Nemesis Pathogen Azmodeus found
+#=> Selected Pathogen has Medicine available.
+# You don't have enough Points to deploy Medicine  ->  Eco #
+***********************************************************************************
+*************************************** Round 29 **************************************
+***********************************************************************************
+
+Points: *20			Outcome: *pending*
+Total Population: *382774*
+Pathogens:
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      85|  27.333 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     122|  10.481 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+In Development:
+
+
+Events encountered:
+
+
+
+#########################################################################################################
+########################################### First Try Decider ###########################################
+#########################################################################################################
+
+#=> No Nemesis Alpha Pathogen found.
+#=> Nemesis Pathogen Azmodeus found
+#=> Selected Pathogen has Medicine available.
+# I decide to deploy a Azmodeus Medicine in Los Angeles #
+***********************************************************************************
+*************************************** Round 29 **************************************
+***********************************************************************************
+
+Points: *10			Outcome: *pending*
+Total Population: *382774*
+Pathogens:
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      85|  26.512 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     122|  10.481 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+In Development:
+
+
+Events encountered:
+
+
+
+#########################################################################################################
+########################################### First Try Decider ###########################################
+#########################################################################################################
+
+#=> No Nemesis Alpha Pathogen found.
+#=> Nemesis Pathogen Azmodeus found
+#=> Selected Pathogen has Medicine available.
+# I decide to deploy a Azmodeus Medicine in ??? #
+***********************************************************************************
+*************************************** Round 29 **************************************
+***********************************************************************************
+
+Points: *0			Outcome: *pending*
+Total Population: *382774*
+Pathogens:
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      85|  25.506 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     122|  10.481 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+In Development:
+
+
+Events encountered:
+
+
+
+#########################################################################################################
+########################################### First Try Decider ###########################################
+#########################################################################################################
+
+#=> No Nemesis Alpha Pathogen found.
+#=> Nemesis Pathogen Azmodeus found
+#=> Selected Pathogen has Medicine available.
+# You don't have enough Points to deploy Medicine  ->  Eco #
+***********************************************************************************
+*************************************** Round 30 **************************************
+***********************************************************************************
+
+Points: *20			Outcome: *loss*
+Total Population: *373445*
+Pathogens:
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|      Name|    Typ|  Vaccine|  Medicine|  Cities|  Infected|  Inf|  Mob|  Dur|  Let|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+|     N5-10|  Delta|        X|         O|       0|     0.0 %|    +|   ++|    o|    +|
+|  Azmodeus|  Delta|        X|         O|      85|  23.238 %|    o|    o|    o|    o|
+|   ?thisis|  Delta|        X|         O|     120|   7.615 %|    o|    o|    o|    o|
++----------+-------+---------+----------+--------+----------+-----+-----+-----+-----+
+In Development:
+
+
+Events encountered:
+
+
+
+#########################################################################################################
+########################################### First Try Decider ###########################################
+#########################################################################################################
+
+#=> No Nemesis Alpha Pathogen found.
+#=> Nemesis Pathogen Azmodeus found
+#=> Selected Pathogen has Medicine available.
+# I decide to deploy a Azmodeus Medicine in ?????? #
